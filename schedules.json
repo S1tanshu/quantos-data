@@ -1,4 +1,630 @@
 {
+  "c0": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLB7540DEDD482705B&si=7KcscNhHMGVl6b76",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lec 1 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "L3LMbpZIKhQ",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lec 2 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "z8HKWUWS-lA",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lec 3 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "NuGDkmwEObM",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lec 4 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "NuY7szYSXSw",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lec 5 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "XX7ePR21Ook",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lec 6 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "h9wxtqoa1jY",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lec 7 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "5RSMLgy06Ew",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lec 8 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "GJpt_3ie4WU",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lec 9 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "bTyxpoi2dmM",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lec 10 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "DOIp5D7VMS4",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lec 11 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "1nScXLQAQ9A",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lec 12 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "fAeShezAGLE",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lec 13 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "X9eErxRjQEI",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lec 14 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "Kqf0uO0oV6s",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lec 15 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "TWBB-JlmYUc",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lec 16 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "pNt5Ll6hGqo",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lec 17 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "09yIb3VHhMI",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lec 18 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "SmFwFdESMHI",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lec 19 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "E6FbvM-FGZ8",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lec 20 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "l1BCv3qqW4A",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lec 21 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "MOfhhFaQdjw",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lec 22 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "gGlMSe7uEkA",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lec 23 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "oI9fMUqgfxY",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lec 24 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "q4mwO2qS2z4",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lec 25 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+        "videoId": "56iFMY8QW2k",
+        "ps": false
+      }
+    ]
+  }
+},
+
+{
+  "c1": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe&si=d-c5CL0Zlmcd81GL",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "1. Probability Models and Axioms",
+        "videoId": "j9WZyLZCBzs",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "The Probability of the Difference of Two Events",
+        "videoId": "o4Ccc1qJyAo",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Geniuses and Chocolates",
+        "videoId": "y7lV5jwK27E",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Uniform Probabilities on a Square",
+        "videoId": "jxxrwZtpHH0",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "2. Conditioning and Bayes' Rule",
+        "videoId": "TluTv5V0RmE",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "A Coin Tossing Puzzle",
+        "videoId": "S_Egep9GOpQ",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Conditional Probability Example",
+        "videoId": "6MffbP5O2v0",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "The Monty Hall Problem",
+        "videoId": "UgKrQ2ywVfs",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "3. Independence",
+        "videoId": "19Ql_Q3l0GA",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "A Random Walker",
+        "videoId": "ya1braz5n88",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Communication over a Noisy Channel",
+        "videoId": "rzg_CavQI_M",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Network Reliability",
+        "videoId": "PqZj8pySQiU",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "A Chess Tournament Problem",
+        "videoId": "eilGapl5cz8",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "4. Counting",
+        "videoId": "6oV3pKLgW2I",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Rooks on a Chessboard",
+        "videoId": "Na4R11fWVJg",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Hypergeometric Probabilities",
+        "videoId": "3gCQ6-yitFc",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "5. Discrete Random Variables I",
+        "videoId": "3MOahpLxj6A",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Sampling People on Buses",
+        "videoId": "0MrkYxOg_Vo",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "PMF of a Function of a Random Variable",
+        "videoId": "Qx2NKaUCUw0",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "6. Discrete Random Variables II",
+        "videoId": "-qCEoqpwjf4",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Flipping a Coin a Random Number of Times",
+        "videoId": "7zjuscCceR8",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Joint Probability Mass Function (PMF) Drill 1",
+        "videoId": "81ZWzdj-I9w",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "The Coupon Collector Problem",
+        "videoId": "3mu47FWEuqA",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "7. Discrete Random Variables III",
+        "videoId": "EObHWIEKGjA",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Joint Probability Mass Function (PMF) Drill 2",
+        "videoId": "JIOJRuzwJQw",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "8. Continuous Random Variables",
+        "videoId": "mHfn_7ym6to",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Calculating a Cumulative Distribution Function (CDF)",
+        "videoId": "wQ6Q9W3Y1ZE",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "A Mixed Distribution Example",
+        "videoId": "6UdLp2gpmcE",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Mean & Variance of the Exponential",
+        "videoId": "GJ2klfD0Q3g",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Normal Probability Calculation",
+        "videoId": "62KrMWdX-RU",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "9. Multiple Continuous Random Variables",
+        "videoId": "CadZXGNauY0",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Uniform Probabilities on a Triangle",
+        "videoId": "v8N6l9RXbOM",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Probability that Three Pieces Form a Triangle",
+        "videoId": "xFS4xpYQ82w",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "The Absent Minded Professor",
+        "videoId": "X5ch4xZf3LE",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "10. Continuous Bayes' Rule; Derived Distributions",
+        "videoId": "H_k1w3cfny8",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Inferring a Discrete Random Variable from a Continuous Measurement",
+        "videoId": "96UEwIcSTG0",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Inferring a Continuous Random Variable from a Discrete Measurement",
+        "videoId": "TbC-kPbRt3c",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "A Derived Distribution Example",
+        "videoId": "HwkKtHLCmzo",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "The Probability Distribution Function (PDF) of [X]",
+        "videoId": "euqZK85cQwo",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Ambulance Travel Time",
+        "videoId": "gpMLYEMIw24",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "11. Derived Distributions (ctd.); Covariance",
+        "videoId": "l4NoMKEHQwM",
+        "ps": false
+      },
+      {
+        "n": 42,
+        "title": "The Difference of Two Independent Exponential Random Variables",
+        "videoId": "f8Nli1AfygM",
+        "ps": false
+      },
+      {
+        "n": 43,
+        "title": "The Sum of Discrete and Continuous Random Variables",
+        "videoId": "8ueUXUTRlSQ",
+        "ps": false
+      },
+      {
+        "n": 44,
+        "title": "12. Iterated Expectations",
+        "videoId": "P7a4bjE6Crk",
+        "ps": false
+      },
+      {
+        "n": 45,
+        "title": "The Variance in the Stick Breaking Problem",
+        "videoId": "NlRgBtSLViI",
+        "ps": false
+      },
+      {
+        "n": 46,
+        "title": "Widgets and Crates",
+        "videoId": "Y8zx1tWEbeI",
+        "ps": false
+      },
+      {
+        "n": 47,
+        "title": "Using the Conditional Expectation and Variance",
+        "videoId": "CSkcBXUIJh4",
+        "ps": false
+      },
+      {
+        "n": 48,
+        "title": "A Random Number of Coin Flips",
+        "videoId": "NYOcZx6Kxsw",
+        "ps": false
+      },
+      {
+        "n": 49,
+        "title": "A Coin with Random Bias",
+        "videoId": "aGyJO6G3mxQ",
+        "ps": false
+      },
+      {
+        "n": 50,
+        "title": "13. Bernoulli Process",
+        "videoId": "gMTiAeE0NCw",
+        "ps": false
+      },
+      {
+        "n": 51,
+        "title": "Bernoulli Process Practice",
+        "videoId": "i0Jom_gR0t4",
+        "ps": false
+      },
+      {
+        "n": 52,
+        "title": "14. Poisson Process I",
+        "videoId": "jsqSScywvMc",
+        "ps": false
+      },
+      {
+        "n": 53,
+        "title": "Competing Exponentials",
+        "videoId": "eUPpqZFSqdw",
+        "ps": false
+      },
+      {
+        "n": 54,
+        "title": "15. Poisson Process II",
+        "videoId": "XsYXACeIklU",
+        "ps": false
+      },
+      {
+        "n": 55,
+        "title": "Random Incidence Under Erlang Arrivals",
+        "videoId": "VUgN-YEklTU",
+        "ps": false
+      },
+      {
+        "n": 56,
+        "title": "16. Markov Chains I",
+        "videoId": "IkbkEtOOC1Y",
+        "ps": false
+      },
+      {
+        "n": 57,
+        "title": "Setting Up a Markov Chain",
+        "videoId": "ibFeUX5F_fw",
+        "ps": false
+      },
+      {
+        "n": 58,
+        "title": "Markov Chain Practice 1",
+        "videoId": "nxHOWeT0ID0",
+        "ps": false
+      },
+      {
+        "n": 59,
+        "title": "17. Markov Chains II",
+        "videoId": "ZulMqrvP-Pk",
+        "ps": false
+      },
+      {
+        "n": 60,
+        "title": "18. Markov Chains III",
+        "videoId": "HIMxdWDLEK8",
+        "ps": false
+      },
+      {
+        "n": 61,
+        "title": "Mean First Passage and Recurrence Times",
+        "videoId": "fa5Bdv_94ZE",
+        "ps": false
+      },
+      {
+        "n": 62,
+        "title": "19. Weak Law of Large Numbers",
+        "videoId": "3eiio3Tw7UQ",
+        "ps": false
+      },
+      {
+        "n": 63,
+        "title": "Convergence in Probability and in the Mean Part 1",
+        "videoId": "x4q6H6lxFFE",
+        "ps": false
+      },
+      {
+        "n": 64,
+        "title": "Convergence in Probability and in the Mean Part 2",
+        "videoId": "D_vUxa3tEGs",
+        "ps": false
+      },
+      {
+        "n": 65,
+        "title": "Convergence in Probability Example",
+        "videoId": "eb-eRduYwZY",
+        "ps": false
+      },
+      {
+        "n": 66,
+        "title": "20. Central Limit Theorem",
+        "videoId": "Tx7zzD4aeiA",
+        "ps": false
+      },
+      {
+        "n": 67,
+        "title": "Probabilty Bounds",
+        "videoId": "s8geHBRvSos",
+        "ps": false
+      },
+      {
+        "n": 68,
+        "title": "Using the Central Limit Theorem",
+        "videoId": "M3615Gbd6-8",
+        "ps": false
+      },
+      {
+        "n": 69,
+        "title": "21. Bayesian Statistical Inference I",
+        "videoId": "1jDBM9UM9xk",
+        "ps": false
+      },
+      {
+        "n": 70,
+        "title": "22. Bayesian Statistical Inference II",
+        "videoId": "XtNXQJkgkhI",
+        "ps": false
+      },
+      {
+        "n": 71,
+        "title": "Inferring a Parameter of Uniform Part 1",
+        "videoId": "9hzVb4hfPPo",
+        "ps": false
+      },
+      {
+        "n": 72,
+        "title": "Inferring a Parameter of Uniform Part 2",
+        "videoId": "DwBK4duYhTU",
+        "ps": false
+      },
+      {
+        "n": 73,
+        "title": "An Inference Example",
+        "videoId": "1s2H3QssiMw",
+        "ps": false
+      },
+      {
+        "n": 74,
+        "title": "23. Classical Statistical Inference I",
+        "videoId": "4UJc0S8APm4",
+        "ps": false
+      },
+      {
+        "n": 75,
+        "title": "24. Classical Inference II",
+        "videoId": "tBUHRpFZy0s",
+        "ps": false
+      },
+      {
+        "n": 76,
+        "title": "25. Classical Inference III",
+        "videoId": "rYefUsYuEp0",
+        "ps": false
+      }
+    ]
+  }
+},
+
+{
   "c2": {
     "playlistUrl": "https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd",
     "notesPage": "https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/pages/lecture-slides-and-files/",
@@ -137,4 +763,5784 @@
       }
     ]
   }
+
+{
+  "c3": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL1A5A6AE8AFC187B7&si=P6u6eEb4S1hM5_OM",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture - 1 Introduction To Computing",
+        "videoId": "leWKvuZVUE8",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture - 2 Introduction To System : Software",
+        "videoId": "VG9VopzV_T0",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture - 3 Introduction To System : Hardware",
+        "videoId": "FOyuMclwymw",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture - 4 Processor Activities",
+        "videoId": "Zm1saVDpS7g",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture - 5 Processor As a State Machine",
+        "videoId": "piuWSMLNeco",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture - 6 Data Path Architecture",
+        "videoId": "ceuXLsuZhLE",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture - 7 Data Path Controller : Micro Programmed",
+        "videoId": "fo-yfZyrW4c",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture - 8 State Machine Design",
+        "videoId": "hg2QxXeI_-8",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture - 9 Controller Design: Microprogrammed and Hardwired",
+        "videoId": "6CCwWCstDGc",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture - 10 Controller Design (Contd)",
+        "videoId": "QmVX73K_hyo",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture - 11 Typical Micro Instructions",
+        "videoId": "UYv36HV3Sng",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture - 12 Addressing Modes",
+        "videoId": "p9wxyIx-j-c",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture - 13 Problem Exercise",
+        "videoId": "F5pU5LbmLVg",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture - 14 Problem Exercise",
+        "videoId": "hhvl7nbVpLo",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 15 - Inroduction to memory system",
+        "videoId": "tas2eUavhRE",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture - 16 CPU - Memory Interaction",
+        "videoId": "mAK9KklkRYY",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture - 17 Cache Organization",
+        "videoId": "VcO3ja6WS2E",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture - 18 Cache Organization",
+        "videoId": "Opp-annh9sg",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture - 19 Virtual Memory",
+        "videoId": "e9w_XERZ2UM",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture - 20  Virtual Memory",
+        "videoId": "3ye2OXj32DM",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lecture - 21 Performance Calculation",
+        "videoId": "8s4b8mYCMAE",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lecture - 22 Segmentation",
+        "videoId": "HWwNTWY1rxo",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lecture - 23 Address Translation and Protection",
+        "videoId": "G0rbpTX_ytE",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lecture - 24 Programmed I/O",
+        "videoId": "aGvMubj8NXk",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lecture 25 - Interrupt Driven I/O",
+        "videoId": "C02weCM9yWA",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lecture - 26 DMA : Direct Memory Access",
+        "videoId": "3RfqkVyvnnc",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lecture - 27 Device Service Routines",
+        "videoId": "XIFbPXcG2W4",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Lecture - 28 Evolution Of I/O",
+        "videoId": "Zsr8kODwr08",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Lecture 29 - I/O devices",
+        "videoId": "AtfXJ0PNesk",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Lecture 30 - I/O Devices - Contd",
+        "videoId": "pW5QK6Fp8-g",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Lecture 31 - Buses",
+        "videoId": "fYl2PoGoQWY",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Lecture 32 - Buses Contd",
+        "videoId": "29SNQooq5wM",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Lecture - 33 Conclusion",
+        "videoId": "ZKBLirP5jo8",
+        "ps": false
+      }
+    ]
+  }
+},
+
+{
+  "c4": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq&si=kmrjKVsQRNPWqdZ_",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture 1. Introduction and Basics - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "zLP_X4wyHbY",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 2. Fundamental Concepts and ISA - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "NpC39uS4K4o",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 3. ISA Tradeoffs  - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "QKdiZSfwg-g",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 4. ISA Tradeoffs & MIPS ISA - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "RBgeCCW5Hjs",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Review Session 1 - CMU - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "Z1jsJKAlWjw",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 5. Intro to Microarchitecture - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "qJmTZwzf1L4",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture 6. Microarchitecture II - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "b4Dl85FVSok",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture 7. Pipelining  - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "dKXbONPqBNY",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 8. Pipelining II: Data and Control Dependence Handling - CMU - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "2Sa55D_Ve4U",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 9. Branch Prediction I - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "CkOPbj5KhP8",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 10. Branch Prediction II - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "NCUDEgLfC_I",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Review Session 2 - CMU - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "y94DjKHPYVk",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 11. Precise Exceptions, State Maintenance/Recovery - CMU - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "nMfbtzWizDA",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture 12. Out of Order Execution - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "P-mXr9adbCc",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 13. Out of Order Execution II and Data Flow - CMU - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "z0EknfZdlIs",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture 14. SIMD (Vector Processors) - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "oGwvMk5re3Y",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture 15. GPUs, VLIW, Execution Models - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "U8K13P6loyk",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture 16. Static Instruction Scheduling - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "isBEVkIjgGA",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture 17. Memory Hierarchy and Caches - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "AXf_C5qOm8o",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture 18. Caches - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "4_Z07m8tf6k",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lecture 19. High Performance Caches - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "jDHx2K9HxlM",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lecture 20. Virtual Memory - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "2RhGMpY18zw",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Recitation 3  - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "cIhExOjdFPI",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Midterm 1 Review  - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "tXIO8JNwCi0",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lecture 21: Main Memory and the DRAM System - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "IUk9o9wvX1Y",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lecture 22: Memory Controllers - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "tpQPN01i3GA",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lecture 23: Memory Management - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "WQL2yMciD2M",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Lecture 24: Simulation & Memory Latency Tolerance - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "RKyCrSUjd-Q",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Lecture 25: Prefetching - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "ibPL7T9iEwY",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Lecture 26. More Prefetching and Emerging Memory Technologies - CMU - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "TUFins4z6o4",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Lecture 27. Multiprocessors - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "PhUo1IMo6UU",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Lecture 28. Memory Consistency and Cache Coherence - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "JfjT1a0vi4E",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Lecture 29. Cache Coherence - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "X6DZchnMYcw",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Lecture 30. In-memory Processing - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "r9HbMrb98CQ",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Lecture 31. Predictable Performance - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "gQvaT_AU0Gg",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Lecture 32. Heterogeneous Systems - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "MB_mzk4dACo",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Midterm 2 Review - Carnegie Mellon - Comp. Arch. 2015 - Onur Mutlu",
+        "videoId": "B2PPyATuSvs",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Lecture 33. Interconnection Networks - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "93CVEOXM3T4",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Final Review Session - Carnegie Mellon - Computer Architecture 2015 - Onur Mutlu",
+        "videoId": "5Oi7tvYE7fI",
+        "ps": false
+      }
+    ]
+  }
+},
+
+{
+  "c5": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL3A13781649466805&si=OAFtElegUjWvyDTv",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lec 1 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "gv-AB35V2k8",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lec 2 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "nlO9ci0kPLg",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lec 3 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "dxNyJxI_2eI",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lec 4 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "HHwDX-3IPT0",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lec 5 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "0aa6fUHTTeU",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "6. Wave Profiles, Heat Equation / point source",
+        "videoId": "ZPmBMd6OZeQ",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lec 7 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "ByGXz_uHEdM",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lec 8 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "FrrTXj13DNk",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lec 9 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "sleOqiMUTXE",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lec 10 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "NpTzMWTYbM8",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lec 11 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "ZpOJJk6en2o",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lec 12 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "r1-r1t5i58g",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lec 13 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "S6dw885-SZI",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lec 14 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "pEuuJ5E7ZS0",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lec 15 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "LtNVodIs1dI",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lec 16 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "XPo4dHK48Nw",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lec 17 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "Y25UBGeu_2g",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lec 18 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "vIydsgrYGIY",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lec 19 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "zha1744fTRs",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lec 20 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "kyx2QgGkEpc",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lec 21 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "7dVYOOHB4g4",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lec 22 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "zIK5EnoiLL0",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lec 23 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "94nmfDkTL-E",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lec 24 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "c9XosfcouiM",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lec 25 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "j-C6QC5ufSw",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lec 26 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "xzUOJ-uQ8F0",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lec 27 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "iVUsEwSg-lw",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Lec 28 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "fpwsw7SdkyY",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Lec 29 | MIT 18.086 Mathematical Methods for Engineers II",
+        "videoId": "NEsObJTwDXI",
+        "ps": false
+      }
+    ]
+  }
+},
+
+{
+  "c6": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLP8iPy9hna6T56GkMHEdSrjCCheNuEwI0&si=nZE0AiPtY_cSTuYn",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Course Welcome + Intro to Arrays & Images! MIT Computational Thinking Spring 2021 | Lecture 1",
+        "videoId": "3zTO3LEY-cM",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Transforming Images , MIT Computational Thinking Spring 2021 | Lecture 2",
+        "videoId": "uZYVjDDZW9A",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Transformations & AutoDiff | Lecture 3 | MIT Computational Thinking Spring 2021",
+        "videoId": "AAREeuaKCic",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Transformations 2: Composability and Linearity | MIT Computational Thinking Spring 2021 | Lecture 4",
+        "videoId": "VDPf3RjoCpY",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Inverses and Newton method | MIT Computational Thinking Spring 2021 | Lecture 5",
+        "videoId": "Wjcx9sNSLP8",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Dynamic Programming and Seam Carving | MIT Computational Thinking Spring 2021 | Lecture 6",
+        "videoId": "KyBXJV1zFlo",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Structure | MIT Computational Thinking Spring 2021 | Lecture 7",
+        "videoId": "wZrVxbmX218",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Principal Component Analysis | MIT Computational Thinking | Spring 2021 | Lecture 8",
+        "videoId": "iuKrM_NzxCk",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Sampling and random variables | MIT Computational Thinking Spring | Lecture 9",
+        "videoId": "7HrpoFZzITI",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Modeling with stochastic simulation | MIT Computational Thinking Spring 2021 | Lecture 10",
+        "videoId": "d8BohH76C7E",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Random variables as types | MIT Computational Thinking Spring 2021 | Lecture 11",
+        "videoId": "xKAO38UsXo0",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Random walks I | MIT Computational Thinking Spring 2021 | Lecture 12",
+        "videoId": "WLQ1l75jSwU",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Random walks II | MIT Computational Thinking Spring | Lecture 13",
+        "videoId": "pIAFHyLmwbM",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Discrete & Continuous | MIT Computational Thinking Spring 2021 | Lecture 14",
+        "videoId": "H6Dcx3YeTkE",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Linear models and simulations | MIT Computational Thinking Spring 2021 | Lecture 15",
+        "videoId": "O6NTKsR8TjQ",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Optimization | MIT Computational Thinking Spring 2021 | Lecture 16",
+        "videoId": "44RA9fclTdA",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Time stepping and differential equations | MIT Computational Thinking Spring 2021 | Lecture 17",
+        "videoId": "3Y5gVyO8KcI",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Libraries & parameterized types | MIT Computational Thinking Spring 2021 | Lecture 18",
+        "videoId": "S71YIZ8e7MQ",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Why can't we predict the weather? | MIT Computational Thinking Spring 2021 | Lecture 19",
+        "videoId": "M3udLzIHtsc",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "A first climate model | MIT Computational Thinking Spring 2021 | Lecture 20",
+        "videoId": "J1UsMa1cTeE",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "How to collaborate on software | MIT Computational Thinking Spring 2021 | Lecture 21",
+        "videoId": "7N9Vvc8amGM",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Snowball Earth and hysteresis | MIT Computational Thinking Spring 2021 | Lecture 22",
+        "videoId": "cdIgr_2nUvI",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Advection and diffusion: PDEs in 1D | MIT Computational Thinking Spring 2021 | Lecture 23",
+        "videoId": "Xb-iUwXI78A",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Resistors, stencils and climate models | MIT Computational Thinking Spring 2021 | Lecture 24",
+        "videoId": "DdTWgBlDgr0",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Modeling climate change | MIT Computational Thinking Spring 2021 | Lecture 25",
+        "videoId": "nm86_hDwYTU",
+        "ps": false
+      }
+    ]
+  }
+},
+
+{
+  "c7": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg&si=G87EcfMgmrupXC6P",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Stanford CS109 Probability for Computer Scientists I Counting I 2022 I Lecture 1",
+        "videoId": "2MuDZIAzBMY",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Stanford CS109 Probability for Computer Scientists I Combinatorics I 2022 I Lecture 2",
+        "videoId": "ag4Ei15CG0c",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Stanford CS109 Probability for Computer Scientists I What is Probability? I 2022 I Lecture 3",
+        "videoId": "EGgMCE2AgyU",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Stanford CS109 I Conditional Probability and Bayes I 2022 I Lecture 4",
+        "videoId": "NHRoXvPaZqY",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Stanford CS109 Probability for Computer Scientists I Independence I 2022 I Lecture 5",
+        "videoId": "zTJDZ2wmaRU",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Stanford CS109 I Random Variables and Expectation I 2022 I Lecture 6",
+        "videoId": "8QCg2ur-3fo",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Stanford CS109 Probability for Computer Scientists I Variance Bernoulli Binomial I 2022 I Lecture 7",
+        "videoId": "I2UBspTNAG0",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Stanford CS109 Probability for Computer Scientists I Poisson I 2022 I Lecture 8",
+        "videoId": "QV3IRiG6dVs",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Stanford CS109 Probability for Computer Scientists I Continuous Random Variables I 2022 I Lecture 9",
+        "videoId": "OFgBn4rQkqc",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Stanford CS109 Probability for Computer Scientists I Normal Distribution I 2022 I Lecture 10",
+        "videoId": "rpB_NNXiWlM",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Stanford CS109 Probability for Computer Scientists I Joint Distributions I 2022 I Lecture 11",
+        "videoId": "8Il2M7kbQSc",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Stanford CS109 Probability for Computer Scientists I Inference I 2022 I Lecture 12",
+        "videoId": "fvgQBAsg5Zo",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Stanford CS109 Probability for Computer Scientists I Inference II I 2022 I Lecture 13",
+        "videoId": "d0ImA7m4BEg",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Stanford CS109 Probability for Computer Scientists I Modelling I 2022 I Lecture 14",
+        "videoId": "q9lk8l8P-E4",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Stanford CS109 Probability for Computer Scientists I General Inference I 2022 I Lecture 15",
+        "videoId": "c0QGjtu9GZg",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Stanford CS109 Probability for Computer Scientists I Beta I 2022 I Lecture 16",
+        "videoId": "aOhk9mFrHdU",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Stanford CS109 Probability for Computer Scientists I Adding Random Variables I 2022 I Lecture 17",
+        "videoId": "UEyHbI9FRtM",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Stanford CS109 I Central Limit Theorem I 2022 I Lecture 18",
+        "videoId": "6Q9wT6JGMMM",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Stanford CS109 Probability for Computer Scientists I Bootstraping and P-Values  I 2022 I Lecture 19",
+        "videoId": "NXJwyPT1vsc",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Stanford CS109 I Algorithmic Analysis I 2022 I Lecture 20",
+        "videoId": "Ht9yUPtppwY",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Stanford CS109 Probability for Computer Scientists I M.L.E. I 2022 I Lecture 21",
+        "videoId": "utFEufMXHgw",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Stanford CS109 Probability for Computer Scientists I  M.A.P. I 2022 I Lecture 22",
+        "videoId": "sL1zOr-P4xc",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Stanford CS109 Probability for Computer Scientists I Naive Bayes I 2022 I Lecture 23",
+        "videoId": "yqF3DvDVpvw",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Stanford CS109 Probability for Computer Scientists I Logistic Regression I 2022 I Lecture 24",
+        "videoId": "ILqZWvDWKEc",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Stanford CS109 I Deep Learning I 2022 I Lecture 25",
+        "videoId": "MSfI6TTgyl4",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Stanford CS109 I Fairness I 2022 I Lecture 26",
+        "videoId": "cbzwbr5H_LA",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Stanford CS109 I Advanced Probability I 2022 I Lecture 27",
+        "videoId": "BquE8Z9htws",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Stanford CS109 I Future of Probability I 2022 I Lecture 28",
+        "videoId": "SoXygq5LtiM",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Stanford CS109 Probability for Computer Scientists I Counting I 2022 I Lecture 29",
+        "videoId": "yyKSsjRt42o",
+        "ps": false
+      }
+    ]
+  }
+},
+
+{
+  "c8": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL9o9lNrP1luVQoR25mdOPP2yKyhNLLK0W&si=HZPumZBiRRMceDN5",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "CoSc 330 5thEd Lecture 1",
+        "videoId": "3XipSI9ZzJA",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "CoSc 330 5thEd Lecture 2",
+        "videoId": "0hHK_5b_DNw",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "CoSc 330 5thEd Lecture 3",
+        "videoId": "7vdJVBI3e1I",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "CoSc 330 5thEd Lecture 4",
+        "videoId": "LffmRoKN8uY",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "CoSc 330 5thEd Lecture 5",
+        "videoId": "cYTbZhSoeNM",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "CoSc 330 5thEd Lecture 6",
+        "videoId": "76oHeNqRNXk",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "CoSc 330 5thEd Lecture 7",
+        "videoId": "ufCuH8cjbvo",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "CoSc 330 5thEd Lecture 8",
+        "videoId": "FJohfDGU4IU",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "CoSc 330 5thEd Lecture 9",
+        "videoId": "Au_h2c4Bpqs",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "CoSc 330 5thEd Lecture 10",
+        "videoId": "eGvFNXKB7Ds",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "CoSc 330 5thEd Lecture 11",
+        "videoId": "lq2xlYgPqGc",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "CoSc 330 5thEd Lecture 12",
+        "videoId": "iyqhlsstPxY",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "CoSc 330 5thEd Lecture 13",
+        "videoId": "isptNktMppY",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "CoSc 330 5thEd Lecture 14",
+        "videoId": "2k8ETMpQv-k",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "CoSc 330 5thEd Lecture 15",
+        "videoId": "u-oDwAWeF4w",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "CoSc 330 5thEd Lecture 16",
+        "videoId": "FGrmwk_096I",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "CoSc 330 5thEd Lecture 17",
+        "videoId": "3HmVyH96Q9c",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "CoSc 330 5thEd Lecture 18",
+        "videoId": "p7jq7gxC0KU",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "CoSc 330 5thEd Lecture 19",
+        "videoId": "NFNQj72NA2k",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "CoSc 330 5thEd Lecture 20",
+        "videoId": "VdZbpSYeofE",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "CoSc 330 5thEd Lecture 21",
+        "videoId": "fN5B-jY6dhk",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "CoSc 330 5thEd Lecture 22",
+        "videoId": "3aK_MlNv8UU",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "CoSc 330 5thEd Lecture 23",
+        "videoId": "rG8HoR07EbY",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "CoSc 330 5thEd Lecture 24",
+        "videoId": "PlDnRjWOHpw",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "CoSc 330 5thEd Lecture 25",
+        "videoId": "C4cRmJmrLmI",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "CoSc 330 5thEd Lecture 26",
+        "videoId": "xkmvrolic4c",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "CoSc 330 5thEd Lecture 27",
+        "videoId": "SC0O2FcW89U",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "CoSc 330 5thEd Lecture 28",
+        "videoId": "8jH578YIND4",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "CoSc 330 5thEd Lecture 29",
+        "videoId": "FYWpFn4urcw",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "CoSc 330 5thEd Lecture 30",
+        "videoId": "EDL-cbfbGmU",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "CoSc 330 5thEd Lecture 31",
+        "videoId": "O0GZsRhXM_s",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "CoSc 330 5thEd Lecture 32",
+        "videoId": "Q3Goq5S8ykU",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "CoSc 330 5thEd Lecture 33",
+        "videoId": "w88enBZxd7o",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "CoSc 330 5thEd Lecture 34",
+        "videoId": "Oa1-14hp4gw",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "CoSc 330 5thEd Lecture 35",
+        "videoId": "kuWKJ3xV_-8",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "CoSc 330 5thEd Lecture 36",
+        "videoId": "UD9gYkA5yr8",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "CoSc 330 5thEd Lecture 37",
+        "videoId": "uKk2xxTz3qU",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "CoSc 330 5thEd Lecture 38",
+        "videoId": "h7sed7eOAUI",
+        "ps": false
+      }
+    ]
+  }
+},
+
+{
+  "c9": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp&si=6niJc7sHFUUGv3Hd",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 1 - Why Parallelism? Why Efficiency?",
+        "videoId": "V1tINV2-9p4",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 2 - A Modern Multi-Core Processor",
+        "videoId": "CKmNpAO5rS4",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Stanford CS149 I 2023 I Lecture 3 - Multi-core Arch Part II + ISPC Programming Abstractions",
+        "videoId": "F4bVSyz_jxo",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 4 - Parallel Programming Basics",
+        "videoId": "0-ztm8SKq70",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Stanford CS149 I 2023 I Lecture 5 - Performance Optimization I: Work Distribution and Scheduling",
+        "videoId": "mmO2Ri_dJkk",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Stanford CS149 I Lecture 6 - Performance Optimization II: Locality, Communication, and Contention",
+        "videoId": "Mhdny2JNhmc",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 7 - GPU architecture and CUDA Programming",
+        "videoId": "qQTDF0CBoxE",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 8 - Data-Parallel Thinking",
+        "videoId": "Ba3TqxSgnTk",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Stanford CS149 I 2023 I Lecture 9 - Distributed Data-Parallel Computing Using Spark",
+        "videoId": "jaMWmLq422U",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 10 - Efficiently Evaluating DNNs on GPUs",
+        "videoId": "qbKtU0X6-WU",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 11 - Cache Coherence",
+        "videoId": "lrCfG2CPDEw",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 12 - Memory Consistency",
+        "videoId": "nFXWmo9MFiY",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Stanford CS149 I 2023 I Lecture 13 - Fine-Grained Synchronization and Lock-Free Programming",
+        "videoId": "GA1ObImqaMo",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 14 - Midterm Review",
+        "videoId": "nHPKVtLz5Ko",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 15 - Domain Specific Programming Languages",
+        "videoId": "sRuyBNxCkGQ",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 16 - Transactional Memory 1",
+        "videoId": "rFFf3WIJ7BA",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 17 - Transactional Memory 2",
+        "videoId": "Tbk1vnYLQqI",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 18 - Hardware Specialization",
+        "videoId": "2tAb3EgyjNw",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 19 - Accessing Memory + Course Wrap Up",
+        "videoId": "J7v_ubArrno",
+        "ps": false
+      }
+    ]
+  }
+},
+
+{
+  "c10": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf&si=SO0PniTWhx5aYJV4",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 1",
+        "videoId": "0JUN9aDxVmI",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 2",
+        "videoId": "3_o0-zPRQqw",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 3",
+        "videoId": "WqBc0ZCU4Uw",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 4",
+        "videoId": "edOWKZE1t84",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 5",
+        "videoId": "rLMikQTOVnI",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 6",
+        "videoId": "gxp_FrgTkQI",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 7",
+        "videoId": "LbX51mey3vo",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 8",
+        "videoId": "aHW6HKVC-SY",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 9",
+        "videoId": "KBVkri8k3Ao",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 10",
+        "videoId": "Jsg9TwLRTbM",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 11",
+        "videoId": "vnS9_NKoEKI",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 12",
+        "videoId": "2Gl-yNso0_0",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 13",
+        "videoId": "VuM1WnwEMRQ",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 15",
+        "videoId": "U7158Q-2rJc",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 16",
+        "videoId": "4A5LiJpPDRw",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 17",
+        "videoId": "PPCnYiTpbCo",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 18",
+        "videoId": "kqt1YV9dEoE",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 19",
+        "videoId": "R9mT5CtdHLg",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 20",
+        "videoId": "TdTFYVjzs1I",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 21",
+        "videoId": "rfTt7k6Nv-I",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 22",
+        "videoId": "HFqO_8Eoc1U",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 23",
+        "videoId": "nDLe6_sPSfs",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 24",
+        "videoId": "GAKpnKLnJtc",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 25",
+        "videoId": "M42rQM0vC4g",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Advanced Algorithms (COMPSCI 224), Lecture 26",
+        "videoId": "DpxNW0T8CWg",
+        "ps": false
+      }
+    ]
+  }
+},
+
+{
+  "ml13": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLAwxTw4SYaPnIRwl6rad_mYwEk4Gmj7Mx&si=ckisSv6foO7EBafN",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Introduction",
+        "videoId": "s5xKxliBMTo",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Three parts to the course",
+        "videoId": "iATS6Qao9qM",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Textbooks",
+        "videoId": "JnMSh-Etz18",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Prerequisites",
+        "videoId": "ZwVrqtexfgQ",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Introduction",
+        "videoId": "LtTAO7RPGQU",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "The Data",
+        "videoId": "WnKjnL2JDSg",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Our Stock Data",
+        "videoId": "M2res0zhqjo",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Pandas Dataframe",
+        "videoId": "_3Rnv0Z3sIA",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Actual CSV",
+        "videoId": "qn2wSJ2Crfo",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Interesting Stuff",
+        "videoId": "2UEzsw5n-II",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Compute max closing price",
+        "videoId": "y9yNIgy681Q",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Plotting stock price data",
+        "videoId": "0-Pg0Mw2Pm0",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Plot two columns",
+        "videoId": "M9jRbZiLSWU",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Working with multiple stocks",
+        "videoId": "pLFj92iw_jg",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Pandas dataframe recap",
+        "videoId": "1vb-DxeNNsQ",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Problems to Solve",
+        "videoId": "QZnKC_UokIM",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "How We're Going to do it",
+        "videoId": "aYfB7xogtB4",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Joining  SPY",
+        "videoId": "AO150s3UWeo",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Create an exmpty data frame",
+        "videoId": "8ANTZGY5URc",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Join SPY data",
+        "videoId": "5FWSeTJCd4s",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Read in more stocks",
+        "videoId": "P483hKA-3MU",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Slicing",
+        "videoId": "vz18lZb21kw",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "More slicing",
+        "videoId": "ULqzREWlHMs",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Problems with Plotting",
+        "videoId": "LOPwCXots-4",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Plotting multiple stocks",
+        "videoId": "GHwIQO9tfNo",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Normalizing",
+        "videoId": "_MbnICT6wQM",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "What is NumPy",
+        "videoId": "Tkv45wgxlEU",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Relationship to Pandas",
+        "videoId": "iKC3nYcmtaQ",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Notes on Notation",
+        "videoId": "J5B3qPwDiX8",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Creating NumPy arrays",
+        "videoId": "hCXoNbADpeg",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Arrays with initial values",
+        "videoId": "xi8tuq1Wo9M",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Generating random numbers",
+        "videoId": "axkwhTdv9CA",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Array attributes",
+        "videoId": "beFu3DjUPtM",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Operations on ndarrays",
+        "videoId": "CPCQxmPBY7E",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Timing python operations",
+        "videoId": "_YLw_L1By9Y",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "How fast is NumPy?",
+        "videoId": "3ZiM-DqQFwg",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Accessing array elements",
+        "videoId": "emASI-92jHM",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Modifying array elements",
+        "videoId": "emQp-VHABPU",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Indexing an array with another array",
+        "videoId": "KZAuFBpeHP4",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Boolean or  mask  index arrays",
+        "videoId": "XIKRFRHLcQM",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "Arithmetic operations",
+        "videoId": "_x82o2YVz9Y",
+        "ps": false
+      },
+      {
+        "n": 42,
+        "title": "Learning more_1",
+        "videoId": "E-CCuIhkXno",
+        "ps": false
+      },
+      {
+        "n": 43,
+        "title": "Are you ready?",
+        "videoId": "_vsKHhFBYWM",
+        "ps": false
+      },
+      {
+        "n": 44,
+        "title": "Global statistics",
+        "videoId": "wNVqkAJmEtA",
+        "ps": false
+      },
+      {
+        "n": 45,
+        "title": "Compute global statistics",
+        "videoId": "zIQT7jH_ajE",
+        "ps": false
+      },
+      {
+        "n": 46,
+        "title": "Rolling statistics",
+        "videoId": "q4yEJ3rPAsU",
+        "ps": false
+      },
+      {
+        "n": 47,
+        "title": "Bollinger Bands",
+        "videoId": "Q1GXhDtg_90",
+        "ps": false
+      },
+      {
+        "n": 48,
+        "title": "Computing rolling statistics",
+        "videoId": "eyJtb4YVPZ8",
+        "ps": false
+      },
+      {
+        "n": 49,
+        "title": "Daily returns",
+        "videoId": "BnVy9X9sBrw",
+        "ps": false
+      },
+      {
+        "n": 50,
+        "title": "Cumulative returns",
+        "videoId": "cNmy5JufzPw",
+        "ps": false
+      },
+      {
+        "n": 51,
+        "title": "Introduction",
+        "videoId": "KYS4yHTjN9c",
+        "ps": false
+      },
+      {
+        "n": 52,
+        "title": "Pristine Data",
+        "videoId": "5W87wq3KNPA",
+        "ps": false
+      },
+      {
+        "n": 53,
+        "title": "Why Data Goes Missing",
+        "videoId": "o0AA6nHE-iw",
+        "ps": false
+      },
+      {
+        "n": 54,
+        "title": "Why this is bad - what can we do?",
+        "videoId": "ICn7LENrVvI",
+        "ps": false
+      },
+      {
+        "n": 55,
+        "title": "Using fillna()",
+        "videoId": "WfuNC5il1A8",
+        "ps": false
+      },
+      {
+        "n": 56,
+        "title": "Histograms and scatterplots",
+        "videoId": "hNow7PegsIA",
+        "ps": false
+      },
+      {
+        "n": 57,
+        "title": "A closer look at daily returns",
+        "videoId": "uS8CR8WSaTs",
+        "ps": false
+      },
+      {
+        "n": 58,
+        "title": "Histogram of daily returns",
+        "videoId": "rwwixTRvcro",
+        "ps": false
+      },
+      {
+        "n": 59,
+        "title": "How to plot a histogram",
+        "videoId": "JlyziejmJQY",
+        "ps": false
+      },
+      {
+        "n": 60,
+        "title": "Computing histogram statistics_1",
+        "videoId": "MvG0RcqsRd4",
+        "ps": false
+      },
+      {
+        "n": 61,
+        "title": "Plot two histograms together",
+        "videoId": "DE1IzzFydqM",
+        "ps": false
+      },
+      {
+        "n": 62,
+        "title": "Scatterplots",
+        "videoId": "oCDqSM67_eM",
+        "ps": false
+      },
+      {
+        "n": 63,
+        "title": "Fitting a line to data points",
+        "videoId": "DHcgfSgjFwU",
+        "ps": false
+      },
+      {
+        "n": 64,
+        "title": "Slope does not equal correlation",
+        "videoId": "4rC60HTU5F0",
+        "ps": false
+      },
+      {
+        "n": 65,
+        "title": "Scatterplots in python_1",
+        "videoId": "X6qWNZzJ-Iw",
+        "ps": false
+      },
+      {
+        "n": 66,
+        "title": "Real world use of kurtosis",
+        "videoId": "XS_d6tI1wvQ",
+        "ps": false
+      },
+      {
+        "n": 67,
+        "title": "Overview",
+        "videoId": "2wtwY1sWffE",
+        "ps": false
+      },
+      {
+        "n": 68,
+        "title": "Daily portfolio values",
+        "videoId": "UweF-2-Tr9Y",
+        "ps": false
+      },
+      {
+        "n": 69,
+        "title": "Portfolio statistics",
+        "videoId": "5EuA5qD9NfI",
+        "ps": false
+      },
+      {
+        "n": 70,
+        "title": "Sharpe ratio",
+        "videoId": "5cqstpRndtI",
+        "ps": false
+      },
+      {
+        "n": 71,
+        "title": "Computing sharpe ratio",
+        "videoId": "s0bxoD_0fAU",
+        "ps": false
+      },
+      {
+        "n": 72,
+        "title": "But wait, there's more!",
+        "videoId": "mykUMLWokkQ",
+        "ps": false
+      },
+      {
+        "n": 73,
+        "title": "Putting it all together_1",
+        "videoId": "lF-PNNje5I4",
+        "ps": false
+      },
+      {
+        "n": 74,
+        "title": "What is an optimizer",
+        "videoId": "Ym1m4Bh14ps",
+        "ps": false
+      },
+      {
+        "n": 75,
+        "title": "What is an optimizer  Part 2",
+        "videoId": "qNz4eljfg0I",
+        "ps": false
+      },
+      {
+        "n": 76,
+        "title": "Minimizer in Python",
+        "videoId": "1S0JxAAqLCs",
+        "ps": false
+      },
+      {
+        "n": 77,
+        "title": "Convex problems",
+        "videoId": "7QmGj1_i3MU",
+        "ps": false
+      },
+      {
+        "n": 78,
+        "title": "Building a parameterized model",
+        "videoId": "0yg97345Hgw",
+        "ps": false
+      },
+      {
+        "n": 79,
+        "title": "Minimizer finds coefficients",
+        "videoId": "9y3Nov-IjvQ",
+        "ps": false
+      },
+      {
+        "n": 80,
+        "title": "Minimizer finds coefficients in python",
+        "videoId": "dCBX0nAvsJg",
+        "ps": false
+      },
+      {
+        "n": 81,
+        "title": "Minimizer finds coefficients in python",
+        "videoId": "pmoEqFfKTSE",
+        "ps": false
+      },
+      {
+        "n": 82,
+        "title": "Wrapping up optimizers",
+        "videoId": "3dGSJ6w2sB4",
+        "ps": false
+      },
+      {
+        "n": 83,
+        "title": "What is portfolio optimization?",
+        "videoId": "vKrChJRL_1s",
+        "ps": false
+      },
+      {
+        "n": 84,
+        "title": "The difference optimization can make",
+        "videoId": "LLJ3KqmLHHw",
+        "ps": false
+      },
+      {
+        "n": 85,
+        "title": "Framing the problem",
+        "videoId": "3ernGukVcqs",
+        "ps": false
+      },
+      {
+        "n": 86,
+        "title": "Ranges and constraints",
+        "videoId": "fzwwDJXCCwA",
+        "ps": false
+      },
+      {
+        "n": 87,
+        "title": "Overview",
+        "videoId": "t2xjgRNrb_s",
+        "ps": false
+      },
+      {
+        "n": 88,
+        "title": "Types of funds",
+        "videoId": "uhwW3Gzeeko",
+        "ps": false
+      },
+      {
+        "n": 89,
+        "title": "Liquidity and capitalization",
+        "videoId": "x2kam2Z0SA8",
+        "ps": false
+      },
+      {
+        "n": 90,
+        "title": "Incentives for fund managers",
+        "videoId": "xoHFgEZ1xVU",
+        "ps": false
+      },
+      {
+        "n": 91,
+        "title": "Two and twenty",
+        "videoId": "RSAX-tDnkC0",
+        "ps": false
+      },
+      {
+        "n": 92,
+        "title": "How funds attract investors",
+        "videoId": "QxSwzwOGbYw",
+        "ps": false
+      },
+      {
+        "n": 93,
+        "title": "Hedge fund goals and metrics",
+        "videoId": "3aX-rJQO-PU",
+        "ps": false
+      },
+      {
+        "n": 94,
+        "title": "The computing inside a hedgefund",
+        "videoId": "_WFQbOtKXkc",
+        "ps": false
+      },
+      {
+        "n": 95,
+        "title": "Overview",
+        "videoId": "N0z0ZWQD-0M",
+        "ps": false
+      },
+      {
+        "n": 96,
+        "title": "What is in an order",
+        "videoId": "5Od7o05Lpsc",
+        "ps": false
+      },
+      {
+        "n": 97,
+        "title": "The order book",
+        "videoId": "_0KVAfy49h0",
+        "ps": false
+      },
+      {
+        "n": 98,
+        "title": "How orders affect the order book",
+        "videoId": "Kl4-VJ2K8Ik",
+        "ps": false
+      },
+      {
+        "n": 99,
+        "title": "How orders get to the exchange",
+        "videoId": "lEBiyNojTqY",
+        "ps": false
+      },
+      {
+        "n": 100,
+        "title": "How hedge funds exploit market mechanics",
+        "videoId": "LPGQL4MphBo",
+        "ps": false
+      },
+      {
+        "n": 101,
+        "title": "Additional order types",
+        "videoId": "2fsaq2_wHmE",
+        "ps": false
+      },
+      {
+        "n": 102,
+        "title": "Mechanics of short selling  Entry",
+        "videoId": "UFj1DyBe5_A",
+        "ps": false
+      },
+      {
+        "n": 103,
+        "title": "Mechanics of short selling  Exit",
+        "videoId": "NwX7EOcorv0",
+        "ps": false
+      },
+      {
+        "n": 104,
+        "title": "What can go wrong",
+        "videoId": "HUm5kTgCFe8",
+        "ps": false
+      },
+      {
+        "n": 105,
+        "title": "Overview",
+        "videoId": "vZxZyTBIJ0A",
+        "ps": false
+      },
+      {
+        "n": 106,
+        "title": "Why company value matters",
+        "videoId": "yS9RYpErpZM",
+        "ps": false
+      },
+      {
+        "n": 107,
+        "title": "The value of a future dollar",
+        "videoId": "2Bh3whrHBs0",
+        "ps": false
+      },
+      {
+        "n": 108,
+        "title": "Intrinsic value",
+        "videoId": "Ai5y3AgtFgU",
+        "ps": false
+      },
+      {
+        "n": 109,
+        "title": "Book value",
+        "videoId": "lkgfnCbe7gs",
+        "ps": false
+      },
+      {
+        "n": 110,
+        "title": "Market capitalization",
+        "videoId": "Qd4rUPdUyRA",
+        "ps": false
+      },
+      {
+        "n": 111,
+        "title": "Why information affects stock price",
+        "videoId": "Uwze16EL3Vw",
+        "ps": false
+      },
+      {
+        "n": 112,
+        "title": "Summary",
+        "videoId": "PXbEjziR2IY",
+        "ps": false
+      },
+      {
+        "n": 113,
+        "title": "The Capital Asset Pricing Model",
+        "videoId": "UJlJg9rxTvU",
+        "ps": false
+      },
+      {
+        "n": 114,
+        "title": "Definition of a portfolio",
+        "videoId": "UlmbelifWYY",
+        "ps": false
+      },
+      {
+        "n": 115,
+        "title": "The market portfolio",
+        "videoId": "bOssuMtJ68M",
+        "ps": false
+      },
+      {
+        "n": 116,
+        "title": "The CAPM equation",
+        "videoId": "uL3wibgTC04",
+        "ps": false
+      },
+      {
+        "n": 117,
+        "title": "CAPM vs active management",
+        "videoId": "JMphhoyqZII",
+        "ps": false
+      },
+      {
+        "n": 118,
+        "title": "CAPM for portfolios",
+        "videoId": "jF4oJc0Qo4Q",
+        "ps": false
+      },
+      {
+        "n": 119,
+        "title": "Implications of CAPM",
+        "videoId": "TMKr6w2hHLA",
+        "ps": false
+      },
+      {
+        "n": 120,
+        "title": "Arbitrage Pricing Theory",
+        "videoId": "yMMoukwU87I",
+        "ps": false
+      },
+      {
+        "n": 121,
+        "title": "Risks for hedgefunds",
+        "videoId": "ngYW6-mm4jU",
+        "ps": false
+      },
+      {
+        "n": 122,
+        "title": "Two stock scenario",
+        "videoId": "L-sLw9BZft4",
+        "ps": false
+      },
+      {
+        "n": 123,
+        "title": "Two stock CAPM math",
+        "videoId": "uOvu3DUhzvw",
+        "ps": false
+      },
+      {
+        "n": 124,
+        "title": "How does it work",
+        "videoId": "g0bU0YWe9ms",
+        "ps": false
+      },
+      {
+        "n": 125,
+        "title": "CAPM for hedge funds summary",
+        "videoId": "uP1TwgsUkBc",
+        "ps": false
+      },
+      {
+        "n": 126,
+        "title": "Technical versus fundamental analysis",
+        "videoId": "wnCd7JdGWZc",
+        "ps": false
+      },
+      {
+        "n": 127,
+        "title": "Characteristics",
+        "videoId": "8cv8qp9CDj0",
+        "ps": false
+      },
+      {
+        "n": 128,
+        "title": "When is technical analysis valuable",
+        "videoId": "153ab3FwNhk",
+        "ps": false
+      },
+      {
+        "n": 129,
+        "title": "When is technical analysis valuable  (part 2)",
+        "videoId": "3_k0eoIKNj8",
+        "ps": false
+      },
+      {
+        "n": 130,
+        "title": "A few indicators  Momentum",
+        "videoId": "H7_J3jfiS5I",
+        "ps": false
+      },
+      {
+        "n": 131,
+        "title": "A few indicators  Simple moving average",
+        "videoId": "4eKsY-KXEnc",
+        "ps": false
+      },
+      {
+        "n": 132,
+        "title": "A few indicators  Bollinger Bands",
+        "videoId": "z63Cxk0bUOQ",
+        "ps": false
+      },
+      {
+        "n": 133,
+        "title": "Normalization",
+        "videoId": "sDu6CudKa0Q",
+        "ps": false
+      },
+      {
+        "n": 134,
+        "title": "TA wrap up",
+        "videoId": "ZQu3GO5Rdik",
+        "ps": false
+      },
+      {
+        "n": 135,
+        "title": "Lesson Overview",
+        "videoId": "n8lhpKoJUt4",
+        "ps": false
+      },
+      {
+        "n": 136,
+        "title": "How data is aggregated",
+        "videoId": "8uxsIBCJlOc",
+        "ps": false
+      },
+      {
+        "n": 137,
+        "title": "Stock splits",
+        "videoId": "6o4Aecb6Xiw",
+        "ps": false
+      },
+      {
+        "n": 138,
+        "title": "Dividends",
+        "videoId": "Bn-deRD_F6o",
+        "ps": false
+      },
+      {
+        "n": 139,
+        "title": "Adjusting for dividends",
+        "videoId": "RCB2hkiwqnA",
+        "ps": false
+      },
+      {
+        "n": 140,
+        "title": "Survior bias",
+        "videoId": "Vj2m3XWCoOw",
+        "ps": false
+      },
+      {
+        "n": 141,
+        "title": "Our hypothesis",
+        "videoId": "gMjoHuRs6Wc",
+        "ps": false
+      },
+      {
+        "n": 142,
+        "title": "EMH assumptions",
+        "videoId": "XbL515LqpZU",
+        "ps": false
+      },
+      {
+        "n": 143,
+        "title": "Origin of information",
+        "videoId": "VqCZeOMOw9g",
+        "ps": false
+      },
+      {
+        "n": 144,
+        "title": "3 forms of the EMH",
+        "videoId": "x_Vr9bDfUTQ",
+        "ps": false
+      },
+      {
+        "n": 145,
+        "title": "Is the EMH correct",
+        "videoId": "_MnGekooUQU",
+        "ps": false
+      },
+      {
+        "n": 146,
+        "title": "Overview",
+        "videoId": "UgksBJlrNLM",
+        "ps": false
+      },
+      {
+        "n": 147,
+        "title": "Grinold's fundamental law",
+        "videoId": "W6yUgs1OLx0",
+        "ps": false
+      },
+      {
+        "n": 148,
+        "title": "The coin flipping casino",
+        "videoId": "LY7lYeBAqWA",
+        "ps": false
+      },
+      {
+        "n": 149,
+        "title": "Coin flip casino  risk 1",
+        "videoId": "IWa0Nz40ehI",
+        "ps": false
+      },
+      {
+        "n": 150,
+        "title": "Coin flip casino  risk 2",
+        "videoId": "wEiPFq7Z7bU",
+        "ps": false
+      },
+      {
+        "n": 151,
+        "title": "Coin flip casino  lessons",
+        "videoId": "iC3T8tWdWCA",
+        "ps": false
+      },
+      {
+        "n": 152,
+        "title": "Coin flipping lessons",
+        "videoId": "D0Ixfls7Arw",
+        "ps": false
+      },
+      {
+        "n": 153,
+        "title": "Coin casino  real world",
+        "videoId": "JTHl3IgFVUc",
+        "ps": false
+      },
+      {
+        "n": 154,
+        "title": "11_IR, IC and breadth",
+        "videoId": "0gpnxxGv7Ys",
+        "ps": false
+      },
+      {
+        "n": 155,
+        "title": "IR, IC and breadth (cont)",
+        "videoId": "VZh7GzRqEsY",
+        "ps": false
+      },
+      {
+        "n": 156,
+        "title": "The fundamental law",
+        "videoId": "yNeatdTJgQk",
+        "ps": false
+      },
+      {
+        "n": 157,
+        "title": "Overview",
+        "videoId": "DHddueClCg0",
+        "ps": false
+      },
+      {
+        "n": 158,
+        "title": "What is risk",
+        "videoId": "3C0OpFT-Vlg",
+        "ps": false
+      },
+      {
+        "n": 159,
+        "title": "Visualizing return vs risk",
+        "videoId": "7SxSmJTrKXE",
+        "ps": false
+      },
+      {
+        "n": 160,
+        "title": "Can we do better?",
+        "videoId": "7boCbpchurA",
+        "ps": false
+      },
+      {
+        "n": 161,
+        "title": "The importance of covariance",
+        "videoId": "qOl04hw7f9g",
+        "ps": false
+      },
+      {
+        "n": 162,
+        "title": "Mean variance optimization",
+        "videoId": "RoUZKkRenRo",
+        "ps": false
+      },
+      {
+        "n": 163,
+        "title": "The efficient frontier",
+        "videoId": "vnAbsNN3SbA",
+        "ps": false
+      },
+      {
+        "n": 164,
+        "title": "Overview",
+        "videoId": "8hKvJPgAeHQ",
+        "ps": false
+      },
+      {
+        "n": 165,
+        "title": "The ML problem",
+        "videoId": "NVWzWfglblo",
+        "ps": false
+      },
+      {
+        "n": 166,
+        "title": "Supervised regression learning",
+        "videoId": "9Ejng7fbBAc",
+        "ps": false
+      },
+      {
+        "n": 167,
+        "title": "Supervised regression learning (cont)",
+        "videoId": "_JRzaBEYV4g",
+        "ps": false
+      },
+      {
+        "n": 168,
+        "title": "How it works with stock data",
+        "videoId": "VmPGyM-mun4",
+        "ps": false
+      },
+      {
+        "n": 169,
+        "title": "Example at a fintech company",
+        "videoId": "mmshTSthMms",
+        "ps": false
+      },
+      {
+        "n": 170,
+        "title": "Price forecasting demo",
+        "videoId": "GVOEnkjmBZU",
+        "ps": false
+      },
+      {
+        "n": 171,
+        "title": "Backtesting",
+        "videoId": "VdcykrQTO80",
+        "ps": false
+      },
+      {
+        "n": 172,
+        "title": "ML tool in use",
+        "videoId": "jDGVpLozP3o",
+        "ps": false
+      },
+      {
+        "n": 173,
+        "title": "Problems with regression",
+        "videoId": "oq25gWxMxKM",
+        "ps": false
+      },
+      {
+        "n": 174,
+        "title": "Problem we will focus on",
+        "videoId": "mBJ2qrjQaEg",
+        "ps": false
+      },
+      {
+        "n": 175,
+        "title": "Introduction",
+        "videoId": "_CznJ6phPsg",
+        "ps": false
+      },
+      {
+        "n": 176,
+        "title": "Parametric regression",
+        "videoId": "6EC1w_fs5u8",
+        "ps": false
+      },
+      {
+        "n": 177,
+        "title": "K nearest neighbor",
+        "videoId": "CWCLQ6eu2Do",
+        "ps": false
+      },
+      {
+        "n": 178,
+        "title": "Kernel regression",
+        "videoId": "ZhJTGBbR18o",
+        "ps": false
+      },
+      {
+        "n": 179,
+        "title": "Training and testing",
+        "videoId": "P2NqrFp8usY",
+        "ps": false
+      },
+      {
+        "n": 180,
+        "title": "Learning APIs",
+        "videoId": "-roGBKfEXog",
+        "ps": false
+      },
+      {
+        "n": 181,
+        "title": "Example for linear regression",
+        "videoId": "nsol5aKIbF8",
+        "ps": false
+      },
+      {
+        "n": 182,
+        "title": "Overview",
+        "videoId": "xqaeZU8AD-c",
+        "ps": false
+      },
+      {
+        "n": 183,
+        "title": "A Closer Look at KNN Solutions",
+        "videoId": "tJzbX_Pqxx4",
+        "ps": false
+      },
+      {
+        "n": 184,
+        "title": "Metric 1  RMS error",
+        "videoId": "sA1K22Hmh1g",
+        "ps": false
+      },
+      {
+        "n": 185,
+        "title": "In Sample vs Out Of Sample",
+        "videoId": "MqeWkYq7958",
+        "ps": false
+      },
+      {
+        "n": 186,
+        "title": "Cross Validation",
+        "videoId": "yBqf9XCpz8o",
+        "ps": false
+      },
+      {
+        "n": 187,
+        "title": "Roll Forward Cross Validation",
+        "videoId": "56Nq6cs2-gc",
+        "ps": false
+      },
+      {
+        "n": 188,
+        "title": "Metric 2  Correlation",
+        "videoId": "niXU7ISpFZA",
+        "ps": false
+      },
+      {
+        "n": 189,
+        "title": "Overfitting",
+        "videoId": "mfzHchd5La8",
+        "ps": false
+      },
+      {
+        "n": 190,
+        "title": "Overview",
+        "videoId": "OKGBfCewE5g",
+        "ps": false
+      },
+      {
+        "n": 191,
+        "title": "Ensemble learners",
+        "videoId": "Un9zObFjBH0",
+        "ps": false
+      },
+      {
+        "n": 192,
+        "title": "Bootstrap aggregating bagging",
+        "videoId": "2Mg8QD0F1dQ",
+        "ps": false
+      },
+      {
+        "n": 193,
+        "title": "Bagging example",
+        "videoId": "sVriC_Ys2cw",
+        "ps": false
+      },
+      {
+        "n": 194,
+        "title": "Boosting",
+        "videoId": "GM3CDQfQ4sw",
+        "ps": false
+      },
+      {
+        "n": 195,
+        "title": "Summary",
+        "videoId": "INtcc3icJTo",
+        "ps": false
+      },
+      {
+        "n": 196,
+        "title": "Overview",
+        "videoId": "_MwRlgvjj-w",
+        "ps": false
+      },
+      {
+        "n": 197,
+        "title": "The RL problem",
+        "videoId": "JlhH6YVfneg",
+        "ps": false
+      },
+      {
+        "n": 198,
+        "title": "Mapping trading to RL",
+        "videoId": "9y3-HjR0i6U",
+        "ps": false
+      },
+      {
+        "n": 199,
+        "title": "Markov decision problems",
+        "videoId": "A12_bdqW6M8",
+        "ps": false
+      },
+      {
+        "n": 200,
+        "title": "Unknown transitions and rewards",
+        "videoId": "7jm2TTiK4_o",
+        "ps": false
+      },
+      {
+        "n": 201,
+        "title": "What is optimal",
+        "videoId": "wUE7ItYEq0s",
+        "ps": false
+      },
+      {
+        "n": 202,
+        "title": "RL summary",
+        "videoId": "TxMrfCNxzE0",
+        "ps": false
+      },
+      {
+        "n": 203,
+        "title": "Overview",
+        "videoId": "5RXRjeC_ip8",
+        "ps": false
+      },
+      {
+        "n": 204,
+        "title": "What is Q",
+        "videoId": "9m_6q_KECTk",
+        "ps": false
+      },
+      {
+        "n": 205,
+        "title": "Learning Procedure",
+        "videoId": "XfAjlpf3czw",
+        "ps": false
+      },
+      {
+        "n": 206,
+        "title": "Update Rule",
+        "videoId": "Cgx6l19y7q0",
+        "ps": false
+      },
+      {
+        "n": 207,
+        "title": "05_Two Finer Points",
+        "videoId": "dSSH1R5sjXw",
+        "ps": false
+      },
+      {
+        "n": 208,
+        "title": "The Trading Problem  Actions",
+        "videoId": "At9XfQoiArI",
+        "ps": false
+      },
+      {
+        "n": 209,
+        "title": "Creating the State",
+        "videoId": "_o-AD9Hgs9g",
+        "ps": false
+      },
+      {
+        "n": 210,
+        "title": "Discretizing",
+        "videoId": "MK_dMsn4MqI",
+        "ps": false
+      },
+      {
+        "n": 211,
+        "title": "Q Learning Recap",
+        "videoId": "FQNWyhN0LcQ",
+        "ps": false
+      },
+      {
+        "n": 212,
+        "title": "Overview",
+        "videoId": "YiKfKizPz_g",
+        "ps": false
+      },
+      {
+        "n": 213,
+        "title": "Dyna Q Big Picture",
+        "videoId": "opb7zvnlQ68",
+        "ps": false
+      },
+      {
+        "n": 214,
+        "title": "Learning T",
+        "videoId": "bSY5waB4Myo",
+        "ps": false
+      },
+      {
+        "n": 215,
+        "title": "Learning R",
+        "videoId": "n_jiudhCSv8",
+        "ps": false
+      },
+      {
+        "n": 216,
+        "title": "Dyna Q Recap",
+        "videoId": "jlC0TFTUefs",
+        "ps": false
+      },
+      {
+        "n": 217,
+        "title": "Interview with Tammer Kamel (Part 1)",
+        "videoId": "RKIXHiIgdcU",
+        "ps": false
+      },
+      {
+        "n": 218,
+        "title": "Interview with Tammer Kamel (Part 2)",
+        "videoId": "TH_yIudA9yE",
+        "ps": false
+      }
+    ]
+  }
+},
+{
+  "p13": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLDkrNO-iQ9O4cLL0_jIIOwsXsQqfUXyQy&si=V0jIRtzktY40WT08",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Advanced C++ in Quant Finance by Nick Webber - Introduction",
+        "videoId": "CU8xxGpbryY",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "which programming language for quant finance c++ r matlab python dotnet",
+        "videoId": "TMEjKP7KLfQ",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Learn Finance C++, Lesson 1, Hello World",
+        "videoId": "IlPnRvDioGQ",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Learn Finance C++, Lesson 2, Financial number variables and constants",
+        "videoId": "Z3C4dtyBi-4",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Learn Finance C++, Lesson 3, Inputting variables into the program for flexibility",
+        "videoId": "ZIWzuZcpIRU",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Learn Finance C++, Lesson 4, Functions and comments",
+        "videoId": "HxJt3yJjmV4",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Learn Finance C++, Lesson 5, Prototypes, Header files, and Multiple C++ files",
+        "videoId": "-WMzgg4myg4",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Learn Finance C++, Lesson 6, operators, cmath library pow function, and iomanip number formatting",
+        "videoId": "t_tCAHShz8c",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Learn Finance C++, Lesson 7, Amortizing Engine, Part I, Introducing while loops",
+        "videoId": "hRWzTDzrmqQ",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Learn Finance C++, Lesson 8, Amortizing Engine, Part II, Finished rough cut, Command line execution",
+        "videoId": "vJciJX6Q2II",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Learn Finance C++, Lesson 9, globals.h file and introduction to structs",
+        "videoId": "Yukl8V5UORM",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Learn Finance C++, Lesson 10, Introducing ARGC and ARGV and command line entry",
+        "videoId": "jZiIc2bRqjs",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Learn Finance C++, Lesson 11, Switching between manual and automatic execution",
+        "videoId": "6yKdRnJJvnw",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Learn Finance C++, Lesson 12, Enum and self-commenting code",
+        "videoId": "rz3Hbz-tz44",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Learn Finance C++, Lesson 12A, setw() and column report formatting",
+        "videoId": "E00riagHt9g",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Learn Finance C++, Lesson 14, abs() for absolute values, introduction to string arrays",
+        "videoId": "xgntDymhfOg",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Learn Finance C++, Lesson 15, Integer array",
+        "videoId": "_9me6oSIqFw",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Learn Finance C++, Lesson 16, Multi-dimensional arrays",
+        "videoId": "29TxJ2VbOH0",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Learn Finance C++, Lesson 17, chars, character arrays, strings, and function overloading",
+        "videoId": "xJaKZjq6Wd4",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Learn Finance C++, Lesson 18, strlen, sprintf, comma-adding algorithm, string manipulation",
+        "videoId": "Q0L40d8l-J8",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Learn Finance C++, Lesson 19, Intro to pointers, sizeof and memory addresses",
+        "videoId": "jN_LU_9lN4E",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Learn Finance C++, Lesson 20, Pointers appear, how they work in memory",
+        "videoId": "M8DiEJWRbhQ",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Learn Finance C++, Lesson 21, References, aliases to variables, and references with functions",
+        "videoId": "ibyKRfAM1Fo",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Learn Finance C++, Lesson 22, Pass by Value, References, Pointers, and Indirect Pointers",
+        "videoId": "lwlcxbx2eOs",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Learn Finance C++, Lesson 23, Pointers to arrays, passing arrays to functions",
+        "videoId": "JrAm9HBUkqw",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Learn Finance C++, Lesson 24, Bubble sort of struct using pointers",
+        "videoId": "-KKxV3OVWKU",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Learn Finance C++, Lesson 25, C-string arrays, and C++ string arrays",
+        "videoId": "0SZYtHIle-4",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Learn Finance C++, Lesson 26, Dynamic Memory Allocation, pointers, new(), delete()",
+        "videoId": "_XHg6zKbm40",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Learn Finance C++, Lesson 27, Bond Class Part I",
+        "videoId": "LKVbfPdZ5kQ",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Learn Finance C++, Lesson 28, Bond Class Part II",
+        "videoId": "wLYWMwsQgcY",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Learn Finance C++, Lesson 29, Bond Class Part III",
+        "videoId": "LX7tH1olyLo",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Learn Finance C++, Lesson 30, Bond Class Part IV, else-if structure",
+        "videoId": "jFuAVBP-99I",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Learn Finance C++, Lesson 31, Interlude for Exceptions, throw, try, and catch",
+        "videoId": "jDv21brY_b8",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Learn Finance C++, Lesson 32,  Interlude for Deconstructor",
+        "videoId": "2F1EjnihgCM",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Learn Finance C++, Lesson 33, Inheritance, Part I",
+        "videoId": "cBuKg3EDfVw",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Learn Finance C++, Lesson 34, Inheritance, Part II",
+        "videoId": "NduKDXRlZSw",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Learn Finance C++, Lesson 35, Black Scholes Monte Carlo Engine, Part I",
+        "videoId": "RSbQU1qh7rU",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Learn Finance C++, Lesson 36, Black Scholes Monte Carlo Engine, Part II",
+        "videoId": "NBrsb4ugxEY",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Learn Finance C++, Lesson 37, Black Scholes Monte Carlo Engine, Part III",
+        "videoId": "xoDXPwqEUws",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Learn Finance C++, Lesson 38, Black Scholes Monte Carlo Engine, Part IV",
+        "videoId": "cFhjm6rcNXE",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "Learn Finance C++, Lesson 39, Black Scholes Monte Carlo Engine, Part V",
+        "videoId": "DuYtwhj7QXw",
+        "ps": false
+      },
+      {
+        "n": 42,
+        "title": "Learn Finance C++, Lesson 40, Passing objects by value, reference, and pointer",
+        "videoId": "OJGmCmVK08A",
+        "ps": false
+      },
+      {
+        "n": 43,
+        "title": "Learn Finance C++, Lesson 41, this, static class variables and class methods",
+        "videoId": "NTsAwMzlKn8",
+        "ps": false
+      },
+      {
+        "n": 44,
+        "title": "Learn Finance C++, Lesson 42, Function templates explained",
+        "videoId": "kt7vBYk9DRQ",
+        "ps": false
+      },
+      {
+        "n": 45,
+        "title": "Learn Finance C++, Lesson 43, Function template example, Bubble sort, swap()",
+        "videoId": "mkFj8o_OcUI",
+        "ps": false
+      },
+      {
+        "n": 46,
+        "title": "Learn Finance C++, Lesson 44, Class Template, simple comparison of swap spreads",
+        "videoId": "7Q8rY8374kc",
+        "ps": false
+      },
+      {
+        "n": 47,
+        "title": "Learn Finance C++, Lesson 45, Comma-separated numbers revisited with Template Classes",
+        "videoId": "9SubQGhfgJQ",
+        "ps": false
+      },
+      {
+        "n": 48,
+        "title": "Learn Finance C++, Lesson 46, Standard Template Library, STL, Intro to Vectors",
+        "videoId": "-A0PMx4-eYw",
+        "ps": false
+      },
+      {
+        "n": 49,
+        "title": "[손석희 마지막] 100분토론 보다 더 볼만한 대기실 기싸움",
+        "videoId": "qs8boqHQ4RE",
+        "ps": false
+      },
+      {
+        "n": 50,
+        "title": "Learn STL: Introduction of Templates",
+        "videoId": "Vc1RyqWFbiA",
+        "ps": false
+      },
+      {
+        "n": 51,
+        "title": "Introduction of STL #1: Overview",
+        "videoId": "ltBdTiRgSaw",
+        "ps": false
+      },
+      {
+        "n": 52,
+        "title": "Introduction of STL #2:  Sequence Containers",
+        "videoId": "gxZJ5JNuWMY",
+        "ps": false
+      },
+      {
+        "n": 53,
+        "title": "Introduction of STL #3: Associative Containers",
+        "videoId": "6iyzPed7FrM",
+        "ps": false
+      },
+      {
+        "n": 54,
+        "title": "Introduction of STL #4:  Unordered Containers",
+        "videoId": "NNLvY9O7ufU",
+        "ps": false
+      },
+      {
+        "n": 55,
+        "title": "Introduction of STL #5: Iterators and Algorithms",
+        "videoId": "vO2AlrBf5rQ",
+        "ps": false
+      },
+      {
+        "n": 56,
+        "title": "Introduction of STL #6: Functors",
+        "videoId": "shqvSkk8r0M",
+        "ps": false
+      },
+      {
+        "n": 57,
+        "title": "STL Algorithms #1: Non-modifying Algorithms",
+        "videoId": "eV7tVdNIw9o",
+        "ps": false
+      },
+      {
+        "n": 58,
+        "title": "STL Algorithm #2: Modifying Algorithms",
+        "videoId": "kYYm-Quj97o",
+        "ps": false
+      },
+      {
+        "n": 59,
+        "title": "STL Algorithms #3: Sorting",
+        "videoId": "TZv5qHU2AMQ",
+        "ps": false
+      },
+      {
+        "n": 60,
+        "title": "STL Algorithms #4: Sorted Data Algorithms and Numeric Algorithms",
+        "videoId": "s6_meQVkwgc",
+        "ps": false
+      },
+      {
+        "n": 61,
+        "title": "C++ String #1:  Constructor and Size",
+        "videoId": "JqXAcD1UfXM",
+        "ps": false
+      },
+      {
+        "n": 62,
+        "title": "C++ String #2: Accessing String Characters",
+        "videoId": "6OCaJbL-kMQ",
+        "ps": false
+      },
+      {
+        "n": 63,
+        "title": "C++ String #3: Member Function Algorithms",
+        "videoId": "avZfl3VoKw0",
+        "ps": false
+      },
+      {
+        "n": 64,
+        "title": "C++ String #4:  Non-member Functions",
+        "videoId": "8lMAMQZRwQM",
+        "ps": false
+      },
+      {
+        "n": 65,
+        "title": "C++ String #5:  String and Algorithms",
+        "videoId": "Z4HOLxIkpj0",
+        "ps": false
+      },
+      {
+        "n": 66,
+        "title": "C++ Stream #1:  Introductory",
+        "videoId": "hk5NYscSPHI",
+        "ps": false
+      },
+      {
+        "n": 67,
+        "title": "C++ Stream #2: File Stream and Error Handling",
+        "videoId": "bzlDPBKn2Fs",
+        "ps": false
+      },
+      {
+        "n": 68,
+        "title": "C++ Stream #3: Formatted and Unformatted IO",
+        "videoId": "CdZxKlC7Y-E",
+        "ps": false
+      },
+      {
+        "n": 69,
+        "title": "C++ Stream #4:  Manipulators",
+        "videoId": "yMseUJm1604",
+        "ps": false
+      },
+      {
+        "n": 70,
+        "title": "C++ Stream #5: Stream Buffer",
+        "videoId": "HwtFcT-ueu8",
+        "ps": false
+      },
+      {
+        "n": 71,
+        "title": "C++ Stream #6:  String Stream",
+        "videoId": "VzM1GWUl8eI",
+        "ps": false
+      },
+      {
+        "n": 72,
+        "title": "C++ Stream #7: Enable Streaming for Your Own Class",
+        "videoId": "MefRKIml_1w",
+        "ps": false
+      },
+      {
+        "n": 73,
+        "title": "Boost Library #1:  Lexical Cast",
+        "videoId": "r-ziiln0Hj8",
+        "ps": false
+      },
+      {
+        "n": 74,
+        "title": "Boost Library #2:  Variant",
+        "videoId": "AWOJyKIN4AU",
+        "ps": false
+      },
+      {
+        "n": 75,
+        "title": "Boost Library #3: Any",
+        "videoId": "kOTwFwIYp9E",
+        "ps": false
+      },
+      {
+        "n": 76,
+        "title": "Boost Library #4:  Optional",
+        "videoId": "SSmWAK6CFf0",
+        "ps": false
+      },
+      {
+        "n": 77,
+        "title": "The Legend of Zelda: Majora's Mask - Episode 29",
+        "videoId": "2Aao_HdGElE",
+        "ps": false
+      },
+      {
+        "n": 78,
+        "title": "BTD5M - Random Mission 70 - ZOMG",
+        "videoId": "aFPUTHYS5LY",
+        "ps": false
+      },
+      {
+        "n": 79,
+        "title": "Programming Interview: Shared Pointers (Smart Pointers) C++",
+        "videoId": "etGi6eH3nAg",
+        "ps": false
+      },
+      {
+        "n": 80,
+        "title": "C++ Threads Using Boost in 5 Minutes",
+        "videoId": "AsXkXPI4yXE",
+        "ps": false
+      },
+      {
+        "n": 81,
+        "title": "How to Install, Build and Use the Boost C++ libraries in eclipse IDE on ubuntu",
+        "videoId": "z2o8wqhVh_M",
+        "ps": false
+      },
+      {
+        "n": 82,
+        "title": "Introduction To Smart Pointers [C++/Boost]",
+        "videoId": "Jc9n9BcYSj4",
+        "ps": false
+      },
+      {
+        "n": 83,
+        "title": "Building Boost C++ Libraries with mingw32 on Windows",
+        "videoId": "qDVRrSzsqco",
+        "ps": false
+      },
+      {
+        "n": 84,
+        "title": "Compiling and configuring Boost C++ libraries for Visual Studio 2010",
+        "videoId": "5AmwIwedTCM",
+        "ps": false
+      },
+      {
+        "n": 85,
+        "title": "Integrating Python and C++ with Boost Python part 1 | SciPy 2014 | Austin Bingham",
+        "videoId": "GE8EsGUsC2w",
+        "ps": false
+      },
+      {
+        "n": 86,
+        "title": "Code::Blocks - Linking to Boost C++ Libraries on Windows",
+        "videoId": "49d0Abl2t0E",
+        "ps": false
+      },
+      {
+        "n": 87,
+        "title": "CppCon 2014: Robert Ramey \"How you can make a Boost C++ Library\"",
+        "videoId": "ACeNgqBKL7E",
+        "ps": false
+      },
+      {
+        "n": 88,
+        "title": "Integrating Python and C++ with Boost Python part 2 | SciPy 2014 | Austin Bingham",
+        "videoId": "WLKuHbkh6jU",
+        "ps": false
+      },
+      {
+        "n": 89,
+        "title": "How to Install Boost C++ libraries in Ubuntu and use them in Eclipse CDT",
+        "videoId": "gN8zrnWxFeI",
+        "ps": false
+      },
+      {
+        "n": 90,
+        "title": "4. C++. Boost",
+        "videoId": "Hcl5uREsMbA",
+        "ps": false
+      },
+      {
+        "n": 91,
+        "title": "Handling files in C++ - using boost::filesystem",
+        "videoId": "4SjKcdZwLAM",
+        "ps": false
+      },
+      {
+        "n": 92,
+        "title": "Lee Cantey - Using the C++ Standard and Boost Libraries",
+        "videoId": "zxzyntAwtgc",
+        "ps": false
+      },
+      {
+        "n": 93,
+        "title": "Game The Catcher for Rehabilitation Robotic - Version 0.6.4",
+        "videoId": "v3O1ArH4Als",
+        "ps": false
+      },
+      {
+        "n": 94,
+        "title": "Cross-Compiling to C++ with Boost Spirit",
+        "videoId": "w0D4DZDScNY",
+        "ps": false
+      },
+      {
+        "n": 95,
+        "title": "Michael König - Embedding Python: Charming the Snake with C++",
+        "videoId": "ffdsIcD2Yps",
+        "ps": false
+      },
+      {
+        "n": 96,
+        "title": "Integrating Python and C++ with Boost Python part 4 | SciPy 2014 | Austin Bingham",
+        "videoId": "GgtlExpPM1c",
+        "ps": false
+      },
+      {
+        "n": 97,
+        "title": "[C++ von { bis }] 107 - Texte parsen mit Spirit (1)",
+        "videoId": "fn2H9boOsFY",
+        "ps": false
+      },
+      {
+        "n": 98,
+        "title": "Integrating Python and C++ with Boost Python part 3 | SciPy 2014 | Austin Bingham",
+        "videoId": "kR5tREIotlI",
+        "ps": false
+      },
+      {
+        "n": 99,
+        "title": "Bojan Nikolic: Fast numerical computation in C++: Expression Templates",
+        "videoId": "DpxNge0Zhi4",
+        "ps": false
+      },
+      {
+        "n": 100,
+        "title": "Tuples as Map Keys [C++/Boost]",
+        "videoId": "9-rliekgoAk",
+        "ps": false
+      },
+      {
+        "n": 101,
+        "title": "STL Concepts and Ranges",
+        "videoId": "8yV2ONeWXyI",
+        "ps": false
+      },
+      {
+        "n": 102,
+        "title": "[C++ von { bis }] 108 - Texte parsen mit Spirit (2)",
+        "videoId": "0LPLGyVH-V8",
+        "ps": false
+      },
+      {
+        "n": 103,
+        "title": "Game The Catcher for Rehabilitation Robotic - Version 0.6.3",
+        "videoId": "4p6UGzkJXig",
+        "ps": false
+      },
+      {
+        "n": 104,
+        "title": "Karsten Ahnert, Mario Mulansky: odeint -- Solving ordinary differential equations in C++",
+        "videoId": "jv2oDfT-jds",
+        "ps": false
+      },
+      {
+        "n": 105,
+        "title": "Building factories in C++ with boost::factory",
+        "videoId": "m5snRgBLC0U",
+        "ps": false
+      },
+      {
+        "n": 106,
+        "title": "Marshall Clow: Generic Programming in C++: A Real-World Example",
+        "videoId": "SWGMq0_X32Q",
+        "ps": false
+      },
+      {
+        "n": 107,
+        "title": "Messaging and signaling in C++",
+        "videoId": "mZzsG1V7DWI",
+        "ps": false
+      },
+      {
+        "n": 108,
+        "title": "Setup and Install Boost (C++) Library for Ubuntu 14.04",
+        "videoId": "8e3EfAtE0sw",
+        "ps": false
+      },
+      {
+        "n": 109,
+        "title": "Le migliori librerie-framework per C++ ITA  boost - 2: finalmente la build",
+        "videoId": "Yrb9Wc7Q4xs",
+        "ps": false
+      },
+      {
+        "n": 110,
+        "title": "Boris Schäling - Network programming with boost::asio - Meeting C++ 2012",
+        "videoId": "Fotwf6qVXcI",
+        "ps": false
+      },
+      {
+        "n": 111,
+        "title": "Performance evaluation of trading strategies: a C++ - Boost - XLW - Excel VBA project, Part 1 of 3",
+        "videoId": "KiMqA2j4tYQ",
+        "ps": false
+      },
+      {
+        "n": 112,
+        "title": "Le migliori librerie-framework per C++ ITA.  Iniziamo con Boost: intro e preparativi alla build",
+        "videoId": "0M14nAb3nzk",
+        "ps": false
+      },
+      {
+        "n": 113,
+        "title": "Swan Voxel Engine - C++ / OpenGL / PolyVox / Boost",
+        "videoId": "kkf_vdHNUVk",
+        "ps": false
+      },
+      {
+        "n": 114,
+        "title": "Boris Schäling - Asynchronous I/O with boost::asio - Meeting C++ 2012",
+        "videoId": "yN7IKvBGoHs",
+        "ps": false
+      },
+      {
+        "n": 115,
+        "title": "Le migliori librerie/framework per C++ ITA  boost - 5: boost::random, distribuzioni uniformi",
+        "videoId": "aqyZMiT-hWc",
+        "ps": false
+      },
+      {
+        "n": 116,
+        "title": "Dean Michael Berris: Techniques in Flexible Header-Only C++ Network Library Implementations",
+        "videoId": "jSNcGeMObb4",
+        "ps": false
+      },
+      {
+        "n": 117,
+        "title": "Intro to C++ Boost Accumulator for financial time series and analysis like a moving average.mp4",
+        "videoId": "dAkc9CpQuPI",
+        "ps": false
+      },
+      {
+        "n": 118,
+        "title": "Create an environment to build the C++ Boost libraries set in Widows for VS2013",
+        "videoId": "n2l845gH4xc",
+        "ps": false
+      },
+      {
+        "n": 119,
+        "title": "Le migliori librerie-framework per C++ ITA  boost - 3: frena!",
+        "videoId": "QOoG-7aVZjE",
+        "ps": false
+      },
+      {
+        "n": 120,
+        "title": "boost installation c++ Programming",
+        "videoId": "-9fHSc3rIQI",
+        "ps": false
+      },
+      {
+        "n": 121,
+        "title": "Animated Version History of Boost C++ Framework (Jul 2000 - Dec 2014)",
+        "videoId": "v1IIXnXBehM",
+        "ps": false
+      },
+      {
+        "n": 122,
+        "title": "Le migliori librerie/framework per C++ ITA  boost - 4: boost::random, introduzione con cenni teorici",
+        "videoId": "zkCUKPGnKWA",
+        "ps": false
+      },
+      {
+        "n": 123,
+        "title": "Boost Unit Test Part 1",
+        "videoId": "JLTPCjRzetc",
+        "ps": false
+      },
+      {
+        "n": 124,
+        "title": "Boris Schaeling: Boost.Process: Process management in C++",
+        "videoId": "U8cJcBYatSA",
+        "ps": false
+      },
+      {
+        "n": 125,
+        "title": "Performance evaluation of trading strategies: a C++ - Boost - XLW - Excel VBA project, Part 2 of 3",
+        "videoId": "1FlL6hgq1Bo",
+        "ps": false
+      },
+      {
+        "n": 126,
+        "title": "Le migliori librerie/framework per C++ ITA  boost - 6: boost::random, dadi truccati",
+        "videoId": "x0h0Astx4Y0",
+        "ps": false
+      },
+      {
+        "n": 127,
+        "title": "Performance evaluation of trading strategies: a C++ - Boost - XLW - Excel VBA project, Part 3 of 3",
+        "videoId": "tYMT5JXv-i0",
+        "ps": false
+      },
+      {
+        "n": 128,
+        "title": "Boost.勉強会 #15 札幌：@hotwatermorning \"C++ Windows GUI ライブラリ「balor」の紹介\"",
+        "videoId": "XAFnnzqHvPs",
+        "ps": false
+      },
+      {
+        "n": 129,
+        "title": "How You Can Make a Boost C++ Library 2015",
+        "videoId": "c-eDVKXkWqw",
+        "ps": false
+      },
+      {
+        "n": 130,
+        "title": "Joel Falcou: Getting Jiggy with Proto — Hands-on Tutorial on C++ EDSL Design",
+        "videoId": "A3YCrqYPN4M",
+        "ps": false
+      },
+      {
+        "n": 131,
+        "title": "CppCon 2014: Bryce Adelstein-Lelbach \"Boost.Asio and Boost.Serialization, Part I\"",
+        "videoId": "8M2X7mGVdqU",
+        "ps": false
+      },
+      {
+        "n": 132,
+        "title": "6. C++. Boost multithreading",
+        "videoId": "Jgk8AgNVgFc",
+        "ps": false
+      },
+      {
+        "n": 133,
+        "title": "Zoltan Porkolab, Abel Sinkovics: Metaparse -- Compile-time parsing with template metaprogramming",
+        "videoId": "v3XoWi0XbZk",
+        "ps": false
+      },
+      {
+        "n": 134,
+        "title": "Using Spirit V2: Qi and Karma (Michael Caisse) [Boostcon]",
+        "videoId": "9iU9_45DoFc",
+        "ps": false
+      },
+      {
+        "n": 135,
+        "title": "Power Tools. Boost your output by building your toolbox! : C++ #221",
+        "videoId": "tJxxdoKFtU8",
+        "ps": false
+      },
+      {
+        "n": 136,
+        "title": "Threads are an illusion - asynchronous programming with boost::asio - Chris Kohlhoff",
+        "videoId": "wxXIbaJBZlE",
+        "ps": false
+      },
+      {
+        "n": 137,
+        "title": "TCP/IP via BOOST.ASIO apresentado por Rodrigo Strauss",
+        "videoId": "mOOlh_3VB4c",
+        "ps": false
+      },
+      {
+        "n": 138,
+        "title": "Boost.Geometry, Introduction And Examples",
+        "videoId": "mFXD8xSXzxI",
+        "ps": false
+      },
+      {
+        "n": 139,
+        "title": "How to Install Boost Libraries on Xcode for Mac",
+        "videoId": "G3MbSpLWAbk",
+        "ps": false
+      },
+      {
+        "n": 140,
+        "title": "Boost date time library Part 2",
+        "videoId": "wH2Fd_cchsM",
+        "ps": false
+      },
+      {
+        "n": 141,
+        "title": "How to quickly install Boost, QT into Visual Studio 2012 and 2010 for C++ development",
+        "videoId": "nxQzXQlhJ2E",
+        "ps": false
+      },
+      {
+        "n": 142,
+        "title": "Design Journeys with Skoot, a Peer Oriented Generic Networking Library - Cliff Green [ BoostCon ]",
+        "videoId": "TgDLivtlMMc",
+        "ps": false
+      },
+      {
+        "n": 143,
+        "title": "CppCon 2014: Louis Dionne \"Metaprogramming with Boost.Hana: Unifying Boost.Fusion and Boost.MPL\"",
+        "videoId": "L2SktfaJPuU",
+        "ps": false
+      },
+      {
+        "n": 144,
+        "title": "Boost serialization vs Google protocol buffer (GPB)",
+        "videoId": "L7YXWHGuoYY",
+        "ps": false
+      },
+      {
+        "n": 145,
+        "title": "Boost Dependency Analyzer",
+        "videoId": "4yZG8gbw0sQ",
+        "ps": false
+      },
+      {
+        "n": 146,
+        "title": "Eric Niebler @ NWCPP:  Text Processing with Boost",
+        "videoId": "6eVtvQ3IEfc",
+        "ps": false
+      },
+      {
+        "n": 147,
+        "title": "CppCon 2014: Bryce Adelstein-Lelbach \"Boost.Asio and Boost.Serialization, Part II\"",
+        "videoId": "ibi8QY2FoYk",
+        "ps": false
+      },
+      {
+        "n": 148,
+        "title": "Lelbach & Habraken: Boost.Asio and Boost.Serialization: Design Patterns for Object Transmission",
+        "videoId": "8XHxGWacbdM",
+        "ps": false
+      },
+      {
+        "n": 149,
+        "title": "Nodes - phase 2 (Boost Graph Library)",
+        "videoId": "pzosL44rDRk",
+        "ps": false
+      },
+      {
+        "n": 150,
+        "title": "CppCon 2014: Thomas Rodgers \"Implementing Wire Protocols with Boost Fusion\"",
+        "videoId": "wbZdZKpUVeg",
+        "ps": false
+      },
+      {
+        "n": 151,
+        "title": "Boost.勉強会 #15 札幌 LT：H.Hiro（@h_hiro_） \"8年間の研究生活でC++書いてて大変だったことベスト3\"",
+        "videoId": "OqMXp-l91iY",
+        "ps": false
+      },
+      {
+        "n": 152,
+        "title": "Joel de Guzman, Hartmut Kaiser: A Framework for RAD Spirit",
+        "videoId": "aca4JTcDG2E",
+        "ps": false
+      },
+      {
+        "n": 153,
+        "title": "Michael Caisse: Lambda Functions",
+        "videoId": "tLp6ZBHwvj4",
+        "ps": false
+      },
+      {
+        "n": 154,
+        "title": "CppCon 2015: Robert Ramey “Boost Units Library for Correct Code\"",
+        "videoId": "qphj8ZuZlPA",
+        "ps": false
+      },
+      {
+        "n": 155,
+        "title": "Object-relational mapping with ODB and Boost - Boris Kolpackov [ Boostcon 2011 ]",
+        "videoId": "jp_G9rWNl70",
+        "ps": false
+      },
+      {
+        "n": 156,
+        "title": "Boris Schaeling: A Complete Overview on Boost.Jam and Boost.Build",
+        "videoId": "OgYwvzUUupM",
+        "ps": false
+      },
+      {
+        "n": 157,
+        "title": "How I learnt to stop worrying and love Boost.Python",
+        "videoId": "2urUj9NRqFc",
+        "ps": false
+      },
+      {
+        "n": 158,
+        "title": "Rebuilding Boost Date-Time for C++11 - Jeff Garland [ CppCon 2014 ]",
+        "videoId": "VBHXmqB4i_s",
+        "ps": false
+      },
+      {
+        "n": 159,
+        "title": "Ábel Sinkovics: Boosting MPL with Haskell elements",
+        "videoId": "aIj034VCUD8",
+        "ps": false
+      },
+      {
+        "n": 160,
+        "title": "January 21, 2013 - Using the Boost C++11 Algorithms Library with the C++Builder 64-bit compiler",
+        "videoId": "czY_MErmA8U",
+        "ps": false
+      },
+      {
+        "n": 161,
+        "title": "Compile-time 'reparsing' - Gordon Woodhull - [ C++Now 2012 ]",
+        "videoId": "59sSMTgFQRc",
+        "ps": false
+      },
+      {
+        "n": 162,
+        "title": "Boris Schaling: Boost.Graph for Beginners",
+        "videoId": "uYvBH7TZlFk",
+        "ps": false
+      },
+      {
+        "n": 163,
+        "title": "Karsten Ahnert & Peter Gottschling - boost::odeint & MTL4",
+        "videoId": "K3KpSFMw0Oo",
+        "ps": false
+      },
+      {
+        "n": 164,
+        "title": "How to set up Boost in Visual Studio 2012 on Windows 8",
+        "videoId": "6trC5zVXzG0",
+        "ps": false
+      },
+      {
+        "n": 165,
+        "title": "Setting up Eclipse CDT with boost and g++ of cygwin",
+        "videoId": "_7fWpSlKqtA",
+        "ps": false
+      },
+      {
+        "n": 166,
+        "title": "Boris Schäling: Containers in Boost",
+        "videoId": "FM-fUjhoCp0",
+        "ps": false
+      },
+      {
+        "n": 167,
+        "title": "Evaluating boost message queue for performance",
+        "videoId": "1nCEFTJX_gI",
+        "ps": false
+      },
+      {
+        "n": 168,
+        "title": "Falcou and Gaunard: Boost.Dispatch -- Generalized Tag Dispatching Infrastructure Library",
+        "videoId": "cuDMN_fcLHg",
+        "ps": false
+      },
+      {
+        "n": 169,
+        "title": "Eric Niebler: A First Look at Proto-0x",
+        "videoId": "JF6YM0XzHnE",
+        "ps": false
+      },
+      {
+        "n": 170,
+        "title": "Boris Schaeling: Creating Boost.Asio extensions",
+        "videoId": "Nkyg11XoAxE",
+        "ps": false
+      },
+      {
+        "n": 171,
+        "title": "Minicar Madness - Indie game project.",
+        "videoId": "EBrldbPH7so",
+        "ps": false
+      },
+      {
+        "n": 172,
+        "title": "A third way to use boost::serialization",
+        "videoId": "AtxbAWa-ytM",
+        "ps": false
+      },
+      {
+        "n": 173,
+        "title": "Boost libraries for MS VC++",
+        "videoId": "DaJ5pr8lREY",
+        "ps": false
+      },
+      {
+        "n": 174,
+        "title": "Game The Catcher for Rehabilitation Robotic - Version 0.6.10",
+        "videoId": "uCEQqodUVV4",
+        "ps": false
+      },
+      {
+        "n": 175,
+        "title": "Building an Application with Qt and boost",
+        "videoId": "_eY1NHOi7zE",
+        "ps": false
+      },
+      {
+        "n": 176,
+        "title": "Beman Dawes: Boosting Libraries for TR2",
+        "videoId": "GsVWIaux8bE",
+        "ps": false
+      },
+      {
+        "n": 177,
+        "title": "Scott Meyers @ NWCPP:  Red Code/Green Code - Generalizing Const",
+        "videoId": "Jfu9Kc1D-gQ",
+        "ps": false
+      },
+      {
+        "n": 178,
+        "title": "Trees, tree models and treeviews in Qt",
+        "videoId": "f5JdJfQtTnc",
+        "ps": false
+      },
+      {
+        "n": 179,
+        "title": "StickConstraints.avi",
+        "videoId": "PxlrKyAMwrk",
+        "ps": false
+      },
+      {
+        "n": 180,
+        "title": "ParticleSim",
+        "videoId": "ZxSStkgcByw",
+        "ps": false
+      },
+      {
+        "n": 181,
+        "title": "Joel Falcou - Designing Architecture aware Libraries with boost proto",
+        "videoId": "rBQlOEWM1aE",
+        "ps": false
+      },
+      {
+        "n": 182,
+        "title": "Антон Полухин, Boost и C++11 Новости с фронта, или обо всём понемногу",
+        "videoId": "bkNC8JA35ks",
+        "ps": false
+      },
+      {
+        "n": 183,
+        "title": "Matt Calabrese: Boost.Generic: Concepts without Concepts",
+        "videoId": "gcsOsV5XSjk",
+        "ps": false
+      },
+      {
+        "n": 184,
+        "title": "Joel de Guzman: Inside Spirit X3: Redesigning Boost.Spirit for C++11",
+        "videoId": "XZKZZy_v7hE",
+        "ps": false
+      },
+      {
+        "n": 185,
+        "title": "Nat Goodspeed: Using Boost.Coroutine to untangle a state machine",
+        "videoId": "JDcip-SRgVE",
+        "ps": false
+      },
+      {
+        "n": 186,
+        "title": "Joel Falcou, Mathias Gaunard: Practical SIMD acceleration with Boost.SIMD",
+        "videoId": "nxsBPjDTpZc",
+        "ps": false
+      },
+      {
+        "n": 187,
+        "title": "Spirit: History and Evolution - Joel de Guzman & Hartmut Kaiser [ BoostCon 2010 ]",
+        "videoId": "be87GqijD30",
+        "ps": false
+      },
+      {
+        "n": 188,
+        "title": "Boost date_time library Part 1.mp4",
+        "videoId": "fxhOdIAKYhc",
+        "ps": false
+      },
+      {
+        "n": 189,
+        "title": "The Optimization of a Boost.Asio-based Networking Server",
+        "videoId": "LDic0FbIXeg",
+        "ps": false
+      },
+      {
+        "n": 190,
+        "title": "С++. Введение в Boost",
+        "videoId": "T6WxF5ANyIM",
+        "ps": false
+      },
+      {
+        "n": 191,
+        "title": "XLW: Using uBLAS Vector for MyArray",
+        "videoId": "UH32vCFwZlc",
+        "ps": false
+      },
+      {
+        "n": 192,
+        "title": "001. Магия метапрограммирования на примере Boost.Geometry - Алексей Чернигин",
+        "videoId": "WKmlZ-VLmQU",
+        "ps": false
+      },
+      {
+        "n": 193,
+        "title": "Boost.勉強会 #15 札幌：高橋晶（@cpp_akira） \"マルチパラダイムデザイン - 再利用性の高いアプリケーションの設計\"",
+        "videoId": "iNa9L8a3LAE",
+        "ps": false
+      },
+      {
+        "n": 194,
+        "title": "[SDC 2rd] Boost 라이브러리와 C++11",
+        "videoId": "mwDDUuoOgQI",
+        "ps": false
+      },
+      {
+        "n": 195,
+        "title": "Rob Stewart: Survey of Multi-Threaded Programming Support in C++11 and Boost",
+        "videoId": "y3qHfOdJNEY",
+        "ps": false
+      },
+      {
+        "n": 196,
+        "title": "[SDC 3rd] Boost.multi_index",
+        "videoId": "EAXTtMvgs-Y",
+        "ps": false
+      },
+      {
+        "n": 197,
+        "title": "Rob Stewart:Multi-Threading With C++11 and Boost",
+        "videoId": "53_kveAvcKM",
+        "ps": false
+      },
+      {
+        "n": 198,
+        "title": "Boost Unit test Part 2",
+        "videoId": "015rZ0rNa1M",
+        "ps": false
+      },
+      {
+        "n": 199,
+        "title": "Old MacDonald had a Farm | Learning about The Farm | Full Episode | Baby Einstein | Toddler Show",
+        "videoId": "xbMF6zBzaKI",
+        "ps": false
+      },
+      {
+        "n": 200,
+        "title": "Freeway - Y'all Get Out (Nas & Jadakiss diss)",
+        "videoId": "0GG6GkEb4SU",
+        "ps": false
+      },
+      {
+        "n": 201,
+        "title": "Will & Jada’s Open Relationship & SlDECHlCK REVEALED, Gabrielle Union FEUD & More. #unwined",
+        "videoId": "U5tdKpa2B60",
+        "ps": false
+      },
+      {
+        "n": 202,
+        "title": "Whole Body Move",
+        "videoId": "FN59R5zgDHY",
+        "ps": false
+      },
+      {
+        "n": 203,
+        "title": "Drake - Duppy Freestyle (INSTRUMENTAL) [ReProd. by HAZI HAKANI]",
+        "videoId": "APCAGJzq-qs",
+        "ps": false
+      },
+      {
+        "n": 204,
+        "title": "Surface - Shower Me With Your Love (Official Video)",
+        "videoId": "h5Ua835sudU",
+        "ps": false
+      },
+      {
+        "n": 205,
+        "title": "Godfrey on Feeling Bad After Pleasuring Himself, Dirty Sock Stuck to His Chest (Part 1)",
+        "videoId": "4lr9RL2yI40",
+        "ps": false
+      }
+    ]
+  }
+},
+
+{
+  "m0": {
+    "playlistUrl": "https://youtube.com/playlist?list=PLm0X8hqw4lIp2qV8KkMgdK4Jr3P04wANy&si=juRaRgKi9l11rAX8",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Recitation Introduction for MIT 18.01SC, 18.02SC",
+        "videoId": "2y4tCiWbVRI",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lec 1 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "7K1sB05pE0A",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Definition of the Derivative | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "_nbtaQtX6JA",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Graphing a Derivative Function | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "Gbtma_UQpro",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lec 2 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "ryLdyDrBfvI",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Smoothing a Piece-wise Function | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "Fj7pbLwbSmU",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lec 3 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "kCPVBl953eY",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Constant Multiple Rule | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "Eaei-Y5AO_E",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Tangent Line to a Polynomial | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "rfx1x-2dwSI",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Derivatives of Sine and Cosine | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "Bb-bgJdOqig",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lec 4 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "4sTKcvYMNxk",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Product Rule | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "55ncRlBZstA",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Quotient Rule | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "D7nf7pKddwM",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Chain Rule | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "aeQA5d3gZTI",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lec 5 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "5q_3FDOkVRQ",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Implicit Differentiation | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "fK6cu99OSEU",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Graphing the Arctan Function | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "aYMt2ZVGd7g",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Arccos | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "cdRMY39EYbs",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lec 6 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "9v25gg2qJYE",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Log and Exponent Derivatives | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "wezQdmwolMU",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Rules of Logs | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "9YgOmJdom6o",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lec 7: Exam 1 review | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "eHJuAByQf5A",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Hyperbolic trig functions | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "er_tQOBgo-I",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lec 9 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "BSAA0akmPEU",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Implicit Differentiation and Linear Approximation | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "8gGbViZjoRw",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Quadratic Approximation | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "aar099Xh5W4",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lec 10 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "eRCN3daFCmU",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Quadratic Approximation of a Product | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "0YGiDaUOse4",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Lec 11 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "twzGBqPeW0M",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Lec 12 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "YN7k_bXXggY",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Lec 13 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "sRIDVAcoG5A",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Lec 14 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "4Q37iOyBq44",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Lec 15 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "-MI0b4h3rS0",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Lec 16 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "60VGKnYBpbg",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Lec 18 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "hjZhPczMkL4",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Lec 19 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "1RLctDS2hUQ",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "Lec 20 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "Pd2xP5zDsRw",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Lec 21 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "_JXPe2J069c",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "Lec 22 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "ShGBRUx2ub8",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Lec 23 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "R9a_NHXrBcg",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "Lec 24 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "jBkXbAgMj6s",
+        "ps": false
+      },
+      {
+        "n": 42,
+        "title": "Lec 25 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "zUEuKrxgHws",
+        "ps": false
+      },
+      {
+        "n": 43,
+        "title": "Lec 27 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "Bv9kVDcj7yo",
+        "ps": false
+      },
+      {
+        "n": 44,
+        "title": "Lec 28 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "CXKoCMVqM9s",
+        "ps": false
+      },
+      {
+        "n": 45,
+        "title": "Lec 29 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "HgEqXhsIq_g",
+        "ps": false
+      },
+      {
+        "n": 46,
+        "title": "Lec 30 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "aeXp1zC6Hls",
+        "ps": false
+      },
+      {
+        "n": 47,
+        "title": "Lec 31 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "TpWQlKHPyJ4",
+        "ps": false
+      },
+      {
+        "n": 48,
+        "title": "Lec 32 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "XRkgBWbWvg4",
+        "ps": false
+      },
+      {
+        "n": 49,
+        "title": "Lec 33 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "BGE3wb7H2PA",
+        "ps": false
+      },
+      {
+        "n": 50,
+        "title": "Lec 35 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "PNTnmH6jsRI",
+        "ps": false
+      },
+      {
+        "n": 51,
+        "title": "Lec 36 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "KhwQKE_tld0",
+        "ps": false
+      },
+      {
+        "n": 52,
+        "title": "Lec 37 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "MK_0QHbUnIA",
+        "ps": false
+      },
+      {
+        "n": 53,
+        "title": "Lec 38 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "wOHrNt9ScYs",
+        "ps": false
+      },
+      {
+        "n": 54,
+        "title": "Lec 39 | MIT 18.01 Single Variable Calculus, Fall 2007",
+        "videoId": "--lPz7VFnKI",
+        "ps": false
+      },
+      {
+        "n": 55,
+        "title": "Sketching a curve | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "aWV4khIBvCM",
+        "ps": false
+      },
+      {
+        "n": 56,
+        "title": "Closest Point to the Origin | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "-CsEPYeSBsg",
+        "ps": false
+      },
+      {
+        "n": 57,
+        "title": "Minimum Triangle Area | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "2keGgDBJKGU",
+        "ps": false
+      },
+      {
+        "n": 58,
+        "title": "Maximum Surface Area | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "Q9iJWDFUspU",
+        "ps": false
+      },
+      {
+        "n": 59,
+        "title": "Related rates 1 | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "RiRQDZjYkzo",
+        "ps": false
+      },
+      {
+        "n": 60,
+        "title": "Related rates 2 | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "d484GRz9zjY",
+        "ps": false
+      },
+      {
+        "n": 61,
+        "title": "Using Newton's Method | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "ER5B_YBFMJo",
+        "ps": false
+      },
+      {
+        "n": 62,
+        "title": "Mean Value Theorem | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "G_HS1Dan_x4",
+        "ps": false
+      },
+      {
+        "n": 63,
+        "title": "Mean value theorem | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "z1FRDkxlmg8",
+        "ps": false
+      },
+      {
+        "n": 64,
+        "title": "Antidiff. With Discontinuity | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "7EKztFcTiUU",
+        "ps": false
+      },
+      {
+        "n": 65,
+        "title": "Computing Differentials | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "aefQ2FYugAY",
+        "ps": false
+      },
+      {
+        "n": 66,
+        "title": "Linear approx. with differentials | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "ed-rB3k_56U",
+        "ps": false
+      },
+      {
+        "n": 67,
+        "title": "Computing Antiderivatives | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "v90JNWCTupk",
+        "ps": false
+      },
+      {
+        "n": 68,
+        "title": "Antidifferentiation by substitution | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "W7sNkRpcydk",
+        "ps": false
+      },
+      {
+        "n": 69,
+        "title": "Differential Equation | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "HaOHUfymsuk",
+        "ps": false
+      },
+      {
+        "n": 70,
+        "title": "Differential Equation With Graph | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "WHWyW5DIVSU",
+        "ps": false
+      },
+      {
+        "n": 71,
+        "title": "Summation Notation Practice | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "iHErQuZ8M-I",
+        "ps": false
+      },
+      {
+        "n": 72,
+        "title": "Riemann sum | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "ELWqePHYjCk",
+        "ps": false
+      },
+      {
+        "n": 73,
+        "title": "Computing the Volume of a Paraboloid | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "QLo5dRFEyl8",
+        "ps": false
+      },
+      {
+        "n": 74,
+        "title": "4J3, Diffusion of a Chemical | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "rqkvDrYmKcc",
+        "ps": false
+      },
+      {
+        "n": 75,
+        "title": "Definite Integrals of tan(x) | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "G5BP8mTzkyk",
+        "ps": false
+      },
+      {
+        "n": 76,
+        "title": "Definite Integral by Substitution | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "C9luv3o6emw",
+        "ps": false
+      },
+      {
+        "n": 77,
+        "title": "Applying the Second Fundamental Theorem | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "TQTDkpZP02A",
+        "ps": false
+      },
+      {
+        "n": 78,
+        "title": "Second fundamental theorem and chain rule | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "lEOjMAmkI-U",
+        "ps": false
+      },
+      {
+        "n": 79,
+        "title": "Second fundamental theorem and quadratic approximation | MIT 18.01SC Single Variable Calculus",
+        "videoId": "_7vVBtiVXIw",
+        "ps": false
+      },
+      {
+        "n": 80,
+        "title": "Area Between the Graphs of Sine and Cosine | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "9J_VCHpvMbY",
+        "ps": false
+      },
+      {
+        "n": 81,
+        "title": "Area Between y=x^3 and y=3x-2 | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "U3ebQ5Z4Jt8",
+        "ps": false
+      },
+      {
+        "n": 82,
+        "title": "Volume of a Paraboloid via Disks | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "ksAdC6Z99dE",
+        "ps": false
+      },
+      {
+        "n": 83,
+        "title": "Volume of Revolution via Shells | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "MYXMC7koJyY",
+        "ps": false
+      },
+      {
+        "n": 84,
+        "title": "Average Velocity | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "Psks_KK0YZ8",
+        "ps": false
+      },
+      {
+        "n": 85,
+        "title": "Average x-Coordinate in a Region | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "_UBh66KVAJI",
+        "ps": false
+      },
+      {
+        "n": 86,
+        "title": "Explanation of Simpson's rule | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "uc4xJsi99bk",
+        "ps": false
+      },
+      {
+        "n": 87,
+        "title": "Using the Trapezoid and Simpson's rules | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "l2SjUREZk0c",
+        "ps": false
+      },
+      {
+        "n": 88,
+        "title": "Trig Integral Practice | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "y_CA5btuoQk",
+        "ps": false
+      },
+      {
+        "n": 89,
+        "title": "Trig Integrals and a Volume of Revolution | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "Wj0oH3ehk18",
+        "ps": false
+      },
+      {
+        "n": 90,
+        "title": "Integral of tan^4 (theta) | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "98X2TyxXQdU",
+        "ps": false
+      },
+      {
+        "n": 91,
+        "title": "Hyperbolic Trig Sub | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "Nv3C7q88MqA",
+        "ps": false
+      },
+      {
+        "n": 92,
+        "title": "Integration by completing the square | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "CMbvq16z0gA",
+        "ps": false
+      },
+      {
+        "n": 93,
+        "title": "Partial Fractions Decomposition | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "UsGBIfjUK7U",
+        "ps": false
+      },
+      {
+        "n": 94,
+        "title": "Finding u and v' When Integrating by Parts | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "pWXh5t-37Qg",
+        "ps": false
+      },
+      {
+        "n": 95,
+        "title": "Integrating sin^n(x) Using Reduction | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "hV5af_07ToE",
+        "ps": false
+      },
+      {
+        "n": 96,
+        "title": "Arc Length of y=x^(3/2) | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "VOlbVNxyNfM",
+        "ps": false
+      },
+      {
+        "n": 97,
+        "title": "Surface Area of a Torus | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "tMVwXglUp60",
+        "ps": false
+      },
+      {
+        "n": 98,
+        "title": "Parametric Arclength | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "v1AQ8Yi3yB8",
+        "ps": false
+      },
+      {
+        "n": 99,
+        "title": "Polar to Cartesian | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "Bk5y6Elcy_Q",
+        "ps": false
+      },
+      {
+        "n": 100,
+        "title": "Graph of r = 1 + cos(theta/2) | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "E7oR_JBgUzA",
+        "ps": false
+      },
+      {
+        "n": 101,
+        "title": "Integration Practice I | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "13UPhn32Mjs",
+        "ps": false
+      },
+      {
+        "n": 102,
+        "title": "Integration Practice II | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "1cejTnuMo1Y",
+        "ps": false
+      },
+      {
+        "n": 103,
+        "title": "Integration Practice III | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "LUdI4-YCIh8",
+        "ps": false
+      },
+      {
+        "n": 104,
+        "title": "Integration Practice IV | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "zsKdRjP91Fs",
+        "ps": false
+      },
+      {
+        "n": 105,
+        "title": "l'Hospital Practice | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "ycO0Vn_w9Q0",
+        "ps": false
+      },
+      {
+        "n": 106,
+        "title": "Failure of L'Hospital's Rule | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "QKXAd2PhZGY",
+        "ps": false
+      },
+      {
+        "n": 107,
+        "title": "Indeterminate forms | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "bnhIRhnBa1A",
+        "ps": false
+      },
+      {
+        "n": 108,
+        "title": "A Solid With Finite Volume and Infinite Cross Section | MIT 18.01SC Single Variable Calculus",
+        "videoId": "bo8SFHppXZk",
+        "ps": false
+      },
+      {
+        "n": 109,
+        "title": "Improper Integrals | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "owkMzpN8WDc",
+        "ps": false
+      },
+      {
+        "n": 110,
+        "title": "Integral of x^n e^(-x) | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "apzEJCsycVM",
+        "ps": false
+      },
+      {
+        "n": 111,
+        "title": "Limit of a Series | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "LpW6zanbSf8",
+        "ps": false
+      },
+      {
+        "n": 112,
+        "title": "Comparison Tests | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "dGKvUUmMGoU",
+        "ps": false
+      },
+      {
+        "n": 113,
+        "title": "Ratio Test for Convergence | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "rUis1mSzwyA",
+        "ps": false
+      },
+      {
+        "n": 114,
+        "title": "Integral Test | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "e4cURLXGjrM",
+        "ps": false
+      },
+      {
+        "n": 115,
+        "title": "Integral Test as Estimation | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "QEBkT-Pgqos",
+        "ps": false
+      },
+      {
+        "n": 116,
+        "title": "Ratio Test -- Radius of Convergence | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "oTTo3qP0Z-I",
+        "ps": false
+      },
+      {
+        "n": 117,
+        "title": "Power Series Practice | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "al2lzKq4o5E",
+        "ps": false
+      },
+      {
+        "n": 118,
+        "title": "Finding Taylor's Series | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "BSqNgPkeWIM",
+        "ps": false
+      },
+      {
+        "n": 119,
+        "title": "Taylor's Series of a Polynomial | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "19x213y_uk4",
+        "ps": false
+      },
+      {
+        "n": 120,
+        "title": "Taylor's Series for sec(x) | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "FK1n3TVQIhc",
+        "ps": false
+      },
+      {
+        "n": 121,
+        "title": "Integration of Taylor's Series | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "2_7htv5eviM",
+        "ps": false
+      },
+      {
+        "n": 122,
+        "title": "Series Calculation Using a Riemann Sum | MIT 18.01SC Single Variable Calculus, Fall 2010",
+        "videoId": "zcuYFf5R0NU",
+        "ps": false
+      }
+    ]
+  }
+},
+
+{
+  "m4": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL221E2BBF13BECF6C&si=Pg-red_7rM9-HUgR",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "An Interview with Gilbert Strang on Teaching Linear Algebra",
+        "videoId": "7UJ4CFRGd-U",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Course Introduction | MIT 18.06SC Linear Algebra",
+        "videoId": "YeyrH-Oc2p4",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "1. The Geometry of Linear Equations",
+        "videoId": "J7DzL2_Na80",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Geometry of Linear Algebra",
+        "videoId": "My5w4MXWBew",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Rec 1 | MIT 18.085 Computational Science and Engineering I, Fall 2008",
+        "videoId": "0oBJN8F616U",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "An Overview of Key Ideas",
+        "videoId": "OZxzHcW663g",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "2. Elimination with Matrices.",
+        "videoId": "QVKj3LADCnA",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Elimination with Matrices",
+        "videoId": "GLFg2UBMAxc",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "3. Multiplication and Inverse Matrices",
+        "videoId": "FX4C-JpTFgY",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Inverse Matrices",
+        "videoId": "zWxhmBCdvFs",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "4. Factorization into A = LU",
+        "videoId": "MsIvs_6vC38",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "LU Decomposition",
+        "videoId": "-eA2D_rIcNA",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "5. Transposes, Permutations, Spaces R^n",
+        "videoId": "JibVXBElKL0",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Subspaces of Three Dimensional Space",
+        "videoId": "QQpvGlF_1Qo",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "6. Column Space and Nullspace",
+        "videoId": "8o5Cmfpeo6g",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Vector Subspaces",
+        "videoId": "S8DQZjE4V8U",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "7. Solving Ax = 0: Pivot Variables, Special Solutions",
+        "videoId": "VqP2tREMvt0",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Solving Ax=0",
+        "videoId": "3cMyj8EKFGo",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "8. Solving Ax = b: Row Reduced Form R",
+        "videoId": "9Q1q7s1jTzU",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Solving Ax=b",
+        "videoId": "fjsPjh0B2tU",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "9. Independence, Basis, and Dimension",
+        "videoId": "yjBerM5jWsc",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Basis and Dimension",
+        "videoId": "MMWqGD4Urso",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "10. The Four Fundamental Subspaces",
+        "videoId": "nHlE7EgJFds",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Computing the Four Fundamental Subspaces",
+        "videoId": "D8u1LV9CnCk",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "11. Matrix Spaces; Rank 1; Small World Graphs",
+        "videoId": "2IdtqGM6KWU",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Matrix Spaces",
+        "videoId": "BaBoztM9Q1w",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "12. Graphs, Networks, Incidence Matrices",
+        "videoId": "6-wh6yvk6uc",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Graphs and Networks",
+        "videoId": "h0m2tsmSPTI",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "13. Quiz 1 Review",
+        "videoId": "l88D4r74gtM",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Exam #1 Problem Solving",
+        "videoId": "AMLekTJR5_U",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "14. Orthogonal Vectors and Subspaces",
+        "videoId": "YzZUIYRCE38",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Orthogonal Vectors and Subspaces",
+        "videoId": "h9aDgvW59TU",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "15. Projections onto Subspaces",
+        "videoId": "Y_Ac6KiQ1t0",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Projection into Subspaces",
+        "videoId": "t-n4a18AW08",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "16. Projection Matrices and Least Squares",
+        "videoId": "osh80YCg_GM",
+        "ps": false
+      },
+      {
+        "n": 36,
+        "title": "Least Squares Approximation",
+        "videoId": "AmQcoopBUTk",
+        "ps": false
+      },
+      {
+        "n": 37,
+        "title": "17. Orthogonal Matrices and Gram-Schmidt",
+        "videoId": "0MtwqhIwdrI",
+        "ps": false
+      },
+      {
+        "n": 38,
+        "title": "Gram-Schmidt Orthogonalization",
+        "videoId": "HEQuN0QELSQ",
+        "ps": false
+      },
+      {
+        "n": 39,
+        "title": "18. Properties of Determinants",
+        "videoId": "srxexLishgY",
+        "ps": false
+      },
+      {
+        "n": 40,
+        "title": "Properties of Determinants",
+        "videoId": "55AoWKZZtww",
+        "ps": false
+      },
+      {
+        "n": 41,
+        "title": "19. Determinant Formulas and Cofactors",
+        "videoId": "23LLB9mNJvc",
+        "ps": false
+      },
+      {
+        "n": 42,
+        "title": "Determinants",
+        "videoId": "B17h10EF59g",
+        "ps": false
+      },
+      {
+        "n": 43,
+        "title": "20. Cramer's Rule, Inverse Matrix, and Volume",
+        "videoId": "QNpj-gOXW9M",
+        "ps": false
+      },
+      {
+        "n": 44,
+        "title": "Determinants and Volume",
+        "videoId": "qEBi0K5wfOs",
+        "ps": false
+      },
+      {
+        "n": 45,
+        "title": "21. Eigenvalues and Eigenvectors",
+        "videoId": "cdZnhQjJu4I",
+        "ps": false
+      },
+      {
+        "n": 46,
+        "title": "Eigenvalues and Eigenvectors",
+        "videoId": "mVeuZzJdd1w",
+        "ps": false
+      },
+      {
+        "n": 47,
+        "title": "22. Diagonalization and Powers of A",
+        "videoId": "13r9QY6cmjc",
+        "ps": false
+      },
+      {
+        "n": 48,
+        "title": "Powers of a Matrix",
+        "videoId": "5IGTFgPqlkw",
+        "ps": false
+      },
+      {
+        "n": 49,
+        "title": "23. Differential Equations and exp(At)",
+        "videoId": "IZqwi0wJovM",
+        "ps": false
+      },
+      {
+        "n": 50,
+        "title": "Differential Equations and exp (At)",
+        "videoId": "FzncDO1eSNI",
+        "ps": false
+      },
+      {
+        "n": 51,
+        "title": "24. Markov Matrices; Fourier Series",
+        "videoId": "lGGDIGizcQ0",
+        "ps": false
+      },
+      {
+        "n": 52,
+        "title": "Markov Matrices",
+        "videoId": "wuyAeWE3iIM",
+        "ps": false
+      },
+      {
+        "n": 53,
+        "title": "24b. Quiz 2 Review",
+        "videoId": "QuZL5IKpO_U",
+        "ps": false
+      },
+      {
+        "n": 54,
+        "title": "Exam #2 Problem Solving",
+        "videoId": "pz3zyUO2gpM",
+        "ps": false
+      },
+      {
+        "n": 55,
+        "title": "25. Symmetric Matrices and Positive Definiteness",
+        "videoId": "UCc9q_cAhho",
+        "ps": false
+      },
+      {
+        "n": 56,
+        "title": "Symmetric Matrices and Positive Definiteness",
+        "videoId": "lpnY5QVjU5w",
+        "ps": false
+      },
+      {
+        "n": 57,
+        "title": "26. Complex Matrices; Fast Fourier Transform",
+        "videoId": "M0Sa8fLOajA",
+        "ps": false
+      },
+      {
+        "n": 58,
+        "title": "Complex Matrices",
+        "videoId": "VYS9EYZ3gCo",
+        "ps": false
+      },
+      {
+        "n": 59,
+        "title": "27. Positive Definite Matrices and Minima",
+        "videoId": "vF7eyJ2g3kU",
+        "ps": false
+      },
+      {
+        "n": 60,
+        "title": "Positive Definite Matrices and Minima",
+        "videoId": "cfn2ZUuWPd0",
+        "ps": false
+      },
+      {
+        "n": 61,
+        "title": "28. Similar Matrices and Jordan Form",
+        "videoId": "TSdXJw83kyA",
+        "ps": false
+      },
+      {
+        "n": 62,
+        "title": "Similar Matrices",
+        "videoId": "KUuxdk_V7To",
+        "ps": false
+      },
+      {
+        "n": 63,
+        "title": "29. Singular Value Decomposition",
+        "videoId": "TX_vooSnhm8",
+        "ps": false
+      },
+      {
+        "n": 64,
+        "title": "Computing the Singular Value Decomposition",
+        "videoId": "pSbafxDHdgE",
+        "ps": false
+      },
+      {
+        "n": 65,
+        "title": "30. Linear Transformations and Their Matrices",
+        "videoId": "Ts3o2I8_Mxc",
+        "ps": false
+      },
+      {
+        "n": 66,
+        "title": "Linear Transformations",
+        "videoId": "2uDvRUowBzg",
+        "ps": false
+      },
+      {
+        "n": 67,
+        "title": "31. Change of Basis; Image Compression",
+        "videoId": "0h43aV4aH7I",
+        "ps": false
+      },
+      {
+        "n": 68,
+        "title": "Change of Basis",
+        "videoId": "rMv2rDiOTsI",
+        "ps": false
+      },
+      {
+        "n": 69,
+        "title": "33. Left and Right Inverses; Pseudoinverse",
+        "videoId": "Go2aLo7ZOlU",
+        "ps": false
+      },
+      {
+        "n": 70,
+        "title": "Pseudoinverses",
+        "videoId": "hSRcHTafkjE",
+        "ps": false
+      },
+      {
+        "n": 71,
+        "title": "32. Quiz 3 Review",
+        "videoId": "HgC1l_6ySkc",
+        "ps": false
+      },
+      {
+        "n": 72,
+        "title": "Exam #3 Problem Solving",
+        "videoId": "OsHY7ycgbaE",
+        "ps": false
+      },
+      {
+        "n": 73,
+        "title": "34. Final Course Review",
+        "videoId": "RWvi4Vx4CDc",
+        "ps": false
+      },
+      {
+        "n": 74,
+        "title": "Final Exam Problem Solving",
+        "videoId": "4PnArrxCZLE",
+        "ps": false
+      }
+    ]
+  }
+},
+
+{
+  "m12": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&si=31eOp_93Bte9sU3u",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "Lecture 1: Probability and Counting | Statistics 110",
+        "videoId": "KbB0FjPg0mw",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "Lecture 2: Story Proofs, Axioms of Probability | Statistics 110",
+        "videoId": "FJd_1H3rZGg",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "Lecture 3: Birthday Problem, Properties of Probability | Statistics 110",
+        "videoId": "LZ5Wergp_PA",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "Lecture 4: Conditional Probability | Statistics 110",
+        "videoId": "P7NE4WF8j-Q",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "Lecture 5: Conditioning Continued, Law of Total Probability | Statistics 110",
+        "videoId": "JzDvVgNDxo8",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "Lecture 6: Monty Hall, Simpson's Paradox | Statistics 110",
+        "videoId": "fDcjhAKuhqQ",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "Lecture 7: Gambler's Ruin and Random Variables | Statistics 110",
+        "videoId": "PNrqCdslGi4",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "Lecture 8: Random Variables and Their Distributions | Statistics 110",
+        "videoId": "k2BB0p8byGA",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "Lecture 9: Expectation, Indicator Random Variables, Linearity | Statistics 110",
+        "videoId": "LX2q356N2rU",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "Lecture 10: Expectation Continued | Statistics 110",
+        "videoId": "P1fSFvhPf7Q",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "Lecture 11: The Poisson distribution | Statistics 110",
+        "videoId": "TD1N4hxqMzY",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "Lecture 12: Discrete vs. Continuous, the Uniform | Statistics 110",
+        "videoId": "Tci---bVs60",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "Lecture 13: Normal distribution | Statistics 110",
+        "videoId": "72QjzHnYvL0",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "Lecture 14: Location, Scale, and LOTUS | Statistics 110",
+        "videoId": "9vp1Ll2NpRw",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "Lecture 15: Midterm Review | Statistics 110",
+        "videoId": "yFRZf81sB5k",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "Lecture 16: Exponential Distribution | Statistics 110",
+        "videoId": "bM6nFDjvEns",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "Lecture 17: Moment Generating Functions | Statistics 110",
+        "videoId": "N8O6zd6vTZ8",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "Lecture 18: MGFs Continued | Statistics 110",
+        "videoId": "tVDdx6xUOcs",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "Lecture 19: Joint, Conditional, and Marginal Distributions | Statistics 110",
+        "videoId": "J70dP_AECzQ",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "Lecture 20: Multinomial and Cauchy | Statistics 110",
+        "videoId": "xiVWNkQUqKk",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "Lecture 21: Covariance and Correlation | Statistics 110",
+        "videoId": "IujCYxtpszU",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "Lecture 22: Transformations and Convolutions | Statistics 110",
+        "videoId": "yXwPUAIvFyg",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "Lecture 23: Beta distribution | Statistics 110",
+        "videoId": "UZjlBQbV1KU",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "Lecture 24: Gamma distribution and Poisson process | Statistics 110",
+        "videoId": "Qjeswpm0cWY",
+        "ps": false
+      },
+      {
+        "n": 25,
+        "title": "Lecture 25: Order Statistics and Conditional Expectation | Statistics 110",
+        "videoId": "2LR5JYbhyjg",
+        "ps": false
+      },
+      {
+        "n": 26,
+        "title": "Lecture 26: Conditional Expectation Continued | Statistics 110",
+        "videoId": "PgawcWisb0I",
+        "ps": false
+      },
+      {
+        "n": 27,
+        "title": "Lecture 27: Conditional Expectation given an R.V. | Statistics 110",
+        "videoId": "gjBvCiRt8QA",
+        "ps": false
+      },
+      {
+        "n": 28,
+        "title": "Lecture 28: Inequalities | Statistics 110",
+        "videoId": "UtXK_EQ3Pow",
+        "ps": false
+      },
+      {
+        "n": 29,
+        "title": "Lecture 29: Law of Large Numbers and Central Limit Theorem | Statistics 110",
+        "videoId": "OprNqnHsVIA",
+        "ps": false
+      },
+      {
+        "n": 30,
+        "title": "Lecture 30: Chi-Square, Student-t, Multivariate Normal | Statistics 110",
+        "videoId": "MF-XSJOsGqw",
+        "ps": false
+      },
+      {
+        "n": 31,
+        "title": "Lecture 31: Markov Chains | Statistics 110",
+        "videoId": "8AJPs3gvNlY",
+        "ps": false
+      },
+      {
+        "n": 32,
+        "title": "Lecture 32: Markov Chains Continued | Statistics 110",
+        "videoId": "aBGOyZv2pZE",
+        "ps": false
+      },
+      {
+        "n": 33,
+        "title": "Lecture 33: Markov Chains Continued Further | Statistics 110",
+        "videoId": "Q-pCzTpwPBU",
+        "ps": false
+      },
+      {
+        "n": 34,
+        "title": "Lecture 34: A Look Ahead | Statistics 110",
+        "videoId": "ChS3K2O-h7o",
+        "ps": false
+      },
+      {
+        "n": 35,
+        "title": "Joseph Blitzstein: \"The Soul of Statistics\" | Harvard Thinks Big 4",
+        "videoId": "dzFf3r1yph8",
+        "ps": false
+      }
+    ]
+  }
+},
+
+{
+  "f1": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL8FB14A2200B87185&si=aZqD4mnjpr5zu9pi",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "1. Introduction and What this Course Will Do for You and Your Purposes",
+        "videoId": "WQui_3Hpmmc",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "2. Risk and Financial Crises",
+        "videoId": "QbosMr2JVrc",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "3. Technology and Invention in Finance",
+        "videoId": "Iij2mpilSJo",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "4. Portfolio Diversification and Supporting Financial Institutions",
+        "videoId": "_B_24GUWdSM",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "5. Insurance, the Archetypal Risk Management Institution, its Opportunities and Vulnerabilities",
+        "videoId": "qfK9rCDCicE",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "6. Guest Speaker David Swensen",
+        "videoId": "wRdx7kVNQ_E",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "7. Efficient Markets",
+        "videoId": "3EzdvkRgToY",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "8. Theory of Debt, Its Proper Role, Leverage Cycles",
+        "videoId": "3Ir6sbDAx4c",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "9. Corporate Stocks",
+        "videoId": "78_GRGjlL6E",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "10. Real Estate",
+        "videoId": "y_IMH8erqds",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "11. Behavioral Finance and the Role of Psychology",
+        "videoId": "chSHqogx2CI",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "12. Misbehavior, Crises, Regulation and Self Regulation",
+        "videoId": "W2BURItNYmI",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "13. Banks",
+        "videoId": "1mDL1fKEVZM",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "14. Guest Speaker Maurice \"Hank\" Greenberg",
+        "videoId": "72qUcUAtRZc",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "15. Forward and Futures Markets",
+        "videoId": "rxHu93YzHpc",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "16. Guest Speaker Laura Cha",
+        "videoId": "vucQ8ila814",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "17. Options Markets",
+        "videoId": "VkUEWUxI6u0",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "18. Monetary Policy",
+        "videoId": "_SpIaGTq0u8",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "19. Investment Banks",
+        "videoId": "2yycGEFCNYE",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "20. Professional Money Managers and their Influence",
+        "videoId": "txTaBKZ8qrs",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "21. Exchanges, Brokers, Dealers, Clearinghouses",
+        "videoId": "kAl8DezwLAE",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "22. Public and Non-Profit Finance",
+        "videoId": "YAO0St7mPQM",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "23. Finding your Purpose in a World of Financial Capitalism",
+        "videoId": "2_pDTWgJg94",
+        "ps": false
+      }
+    ]
+  }
+},
+
+{
+  "f2": {
+    "playlistUrl": "https://youtube.com/playlist?list=PL6EF60E1027E1A10B&si=kjSQThE2TvkmzFid",
+    "notesPage": "",
+    "psets": [],
+    "lectures": [
+      {
+        "n": 1,
+        "title": "1. Introduction: five first lessons",
+        "videoId": "nM3rTU927io",
+        "ps": false
+      },
+      {
+        "n": 2,
+        "title": "2. Putting yourselves into other people's shoes",
+        "videoId": "qQ3kFydI_xQ",
+        "ps": false
+      },
+      {
+        "n": 3,
+        "title": "3. Iterative deletion and the median-voter theorem",
+        "videoId": "kqDu0RVWTYw",
+        "ps": false
+      },
+      {
+        "n": 4,
+        "title": "4. Best responses in soccer and business partnerships",
+        "videoId": "YYUPc-cfPyc",
+        "ps": false
+      },
+      {
+        "n": 5,
+        "title": "5. Nash equilibrium: bad fashion and bank runs",
+        "videoId": "Ac2vCCuf8-s",
+        "ps": false
+      },
+      {
+        "n": 6,
+        "title": "6. Nash equilibrium: dating and Cournot",
+        "videoId": "7oASpaBdDMs",
+        "ps": false
+      },
+      {
+        "n": 7,
+        "title": "7. Nash equilibrium: shopping, standing and voting on a line",
+        "videoId": "pMRMYi1SoQs",
+        "ps": false
+      },
+      {
+        "n": 8,
+        "title": "8. Nash equilibrium: location, segregation and randomization",
+        "videoId": "pglQ_E0g8PY",
+        "ps": false
+      },
+      {
+        "n": 9,
+        "title": "9. Mixed strategies in theory and tennis",
+        "videoId": "unvJofv0wl8",
+        "ps": false
+      },
+      {
+        "n": 10,
+        "title": "10. Mixed strategies in baseball, dating and paying your taxes",
+        "videoId": "9b2AMWwMToc",
+        "ps": false
+      },
+      {
+        "n": 11,
+        "title": "11. Evolutionary stability: cooperation, mutation, and equilibrium",
+        "videoId": "er9KvYn4ldk",
+        "ps": false
+      },
+      {
+        "n": 12,
+        "title": "12.  Evolutionary stability: social convention, aggression, and cycles",
+        "videoId": "5sK9W0viyu0",
+        "ps": false
+      },
+      {
+        "n": 13,
+        "title": "13. Sequential games: moral hazard, incentives, and hungry lions",
+        "videoId": "5tGh7wd2zOU",
+        "ps": false
+      },
+      {
+        "n": 14,
+        "title": "14. Backward induction: commitment, spies, and first-mover advantages",
+        "videoId": "aIq0E3OmNz4",
+        "ps": false
+      },
+      {
+        "n": 15,
+        "title": "15. Backward induction: chess, strategies, and credible threats",
+        "videoId": "Bm8lM73lTmk",
+        "ps": false
+      },
+      {
+        "n": 16,
+        "title": "16. Backward induction: reputation and duels",
+        "videoId": "SE7kP7XZuV4",
+        "ps": false
+      },
+      {
+        "n": 17,
+        "title": "17. Backward induction: ultimatums and bargaining",
+        "videoId": "XpEmuxE4qWk",
+        "ps": false
+      },
+      {
+        "n": 18,
+        "title": "18. Imperfect information: information sets and sub-game perfection",
+        "videoId": "D7aDIZ-KPEU",
+        "ps": false
+      },
+      {
+        "n": 19,
+        "title": "19. Subgame perfect equilibrium: matchmaking and strategic investments",
+        "videoId": "hw014me49ks",
+        "ps": false
+      },
+      {
+        "n": 20,
+        "title": "20. Subgame perfect equilibrium: wars of attrition",
+        "videoId": "wR8dqbc6mlQ",
+        "ps": false
+      },
+      {
+        "n": 21,
+        "title": "21. Repeated games: cooperation vs. the end game",
+        "videoId": "zNxVVVk5It0",
+        "ps": false
+      },
+      {
+        "n": 22,
+        "title": "22. Repeated games: cheating, punishment, and outsourcing",
+        "videoId": "NBKr-wK-TEQ",
+        "ps": false
+      },
+      {
+        "n": 23,
+        "title": "23.  Asymmetric information: silence, signaling and suffering education",
+        "videoId": "RWxTJsTbK2w",
+        "ps": false
+      },
+      {
+        "n": 24,
+        "title": "24. Asymmetric information: auctions and the winner's curse",
+        "videoId": "pJAhnc8VuDo",
+        "ps": false
+      }
+    ]
+  }
+}
+
+
+  
 }
